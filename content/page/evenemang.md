@@ -13,4 +13,6 @@ date: 2018-02-16
 
 ## Evenemang
 
-För kommande och tidigare evenemang, <span style="font-size:larger;"><b>[klicka här](/tags/Evenemang)!</b></span>
+För kommande och tidigare evenemang, <span style="font-size:larger;"><b>[klicka här](/tags/Evenemang).</b></span>
+
+Välkommen att delta!
