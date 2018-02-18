@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neurovetenskap on Loggen</title>
+    <link>/categories/neurovetenskap/</link>
+    <description>Recent content in Neurovetenskap on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/neurovetenskap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poddar om psykologi, psykiatri och kognition</title>
+      <link>/post/2018-02-17-podcasts-cognition/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-02-17-podcasts-cognition/</guid>
+      <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
+Länk: https://www.npr.org/podcasts/510308/hidden-brain
+Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
+ Oxford psychiatry podcast These podcasts provide an introduction to core topics in psychiatry, and to research undertaken in the Oxford University Department of Psychiatry.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content='This is the Minimo&rsquo;s configuraion file ( config.toml ) file of this site:
+baseURL = &#34;http://www.example.com&#34; title = &#34;Loggen&#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &#34;&#34; theme = &#34;minimo&#34; disqusShortname = &#34;&#34; googleAnalytics = &#34;&#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true # Missing translations will default to this content language defaultContentLanguage = &#34;en&#34; [params.'>
+
+<meta property='og:title' content='Configuration File: config.toml • Munif Tanjim'>
+<meta property='og:description' content='This is the Minimo&rsquo;s configuraion file ( config.toml ) file of this site:
+baseURL = &#34;http://www.example.com&#34; title = &#34;Loggen&#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &#34;&#34; theme = &#34;minimo&#34; disqusShortname = &#34;&#34; googleAnalytics = &#34;&#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true # Missing translations will default to this content language defaultContentLanguage = &#34;en&#34; [params.'>
+<meta property='og:url' content='/docs/config-file/'>
+<meta property='og:site_name' content='Loggen'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/058944a54775b387da964cb3cc3670ff?s=256'><meta property='article:author' content='https://facebook.com/MunifTanjim'><meta property='article:section' content='Docs'><meta property='article:published_time' content='2017-09-25T08:00:00&#43;06:00'/><meta property='article:modified_time' content='2018-02-08T15:15:00&#43;06:00'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@eriks_tweets'><meta name='twitter:creator' content='@MunifTanjim'>
+
+<meta name="generator" content="Hugo 0.36.1" />
+
+  <title>Configuration File: config.toml • Munif Tanjim</title>
+  <link rel='canonical' href='/docs/config-file/'>
+  
+  
+  <link rel='icon' href='/favicon.ico'>
+<link rel='stylesheet' href='/assets/css/main.9efb8af6.css'><link rel='stylesheet' href='/css/custom.css'>
+</head>
+
+
+<body class='page type-docs has-sidebar sidebar-sticky'>
+
+  <div class='site'>
+
+    <a class='screen-reader-text' href='#main-menu'>Skip to Main Menu</a>
+
+<div id='sidebar' class='sidebar'>
+  <div class='container'><section class='widget widget-about sep-after'>
+  <header>
+    
+    <div class='logo'>
+      <a href='/'>
+        <img src='/images/logo.png'>
+      </a>
+    </div>
+    
+    <h2 class='title site-title '>
+    Loggen
+    </h2>
+    <div class='desc'>
+    En slags loggbok
+    </div>
+  </header>
+
+</section>
+<section class='widget widget-taxonomy_cloud sep-after'>
+  <header>
+    <h4 class='title widget-title'>Tags</h4>
+  </header>
+
+  <div class='container list-container'>
+  <ul class='list taxonomy-cloud'><li>
+        <a href='/tags/astronomi' style='font-size:1em'>Astronomi</a>
+      </li><li>
+        <a href='/tags/evenemang' style='font-size:1.1818181818181819em'>Evenemang</a>
+      </li><li>
+        <a href='/tags/historia' style='font-size:1.0909090909090908em'>Historia</a>
+      </li><li>
+        <a href='/tags/kognition' style='font-size:1.0909090909090908em'>Kognition</a>
+      </li><li>
+        <a href='/tags/litteratur' style='font-size:1.0909090909090908em'>Litteratur</a>
+      </li><li>
+        <a href='/tags/media' style='font-size:1.2727272727272727em'>Media</a>
+      </li><li>
+        <a href='/tags/n%C3%B6je' style='font-size:1.5454545454545454em'>Nöje</a>
+      </li><li>
+        <a href='/tags/ontologi' style='font-size:1.4545454545454546em'>Ontologi</a>
+      </li><li>
+        <a href='/tags/podcast' style='font-size:2em'>Podcast</a>
+      </li><li>
+        <a href='/tags/psykiatri' style='font-size:1.1818181818181819em'>Psykiatri</a>
+      </li><li>
+        <a href='/tags/r' style='font-size:1em'>R</a>
+      </li><li>
+        <a href='/tags/tips' style='font-size:1em'>Tips</a>
+      </li><li>
+        <a href='/tags/vetenskap' style='font-size:1.9090909090909092em'>Vetenskap</a>
+      </li><li>
+        <a href='/tags/authors' style='font-size:1em'>Authors</a>
+      </li><li>
+        <a href='/tags/emacs' style='font-size:1em'>Emacs</a>
+      </li><li>
+        <a href='/tags/%C3%B6rebro-l%C3%A4kares%C3%A4llskap' style='font-size:1.2727272727272727em'>Örebro Läkaresällskap</a>
+      </li></ul>
+</div>
+
+
+</section>
+</div>
+</div>
+
+    <div class='main'>
+
+      <nav id='main-menu' class='main-menu' aria-label='Main Menu'>
+  <div class='container'>
+    <a class='screen-reader-text' href='#content'>Skip to Content</a>
+
+<button id='sidebar-toggler' class='hamburger hamburger--arrow sidebar-toggler' type='button' aria-controls='sidebar' aria-expanded='false'>
+  <span class='screen-reader-text'>Toggle Sidebar</span>
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+    <ul><li class='item'>
+        <a href='/'>Home</a>
+      </li><li class='item'>
+        <a href='/docs/'>Docs</a>
+      </li><li class='item'>
+        <a href='/%C3%B6rebrol%C3%A4kare/'>ÖrebroLäkare</a>
+      </li></ul>
+  </div>
+</nav>
+
+
+      <header id='header' class='header site-header'>
+        <div class='container sep-after'>
+          <div class='header-info'><p class='site-title title'>Loggen</p><p class='desc site-desc'>En slags loggbok</p>
+          </div>
+        </div>
+      </header>
+
+      <main id='content'>
+
+
+<article lang='en' class='entry'>
+  <header class='header entry-header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+      <h1 class='title'>Configuration File: config.toml</h1>
+      
+
+    </div>
+    
+<div class='entry-meta'>
+  <span class='posted-on'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+  <line x1="16" y1="2" x2="16" y2="6"/>
+  <line x1="8" y1="2" x2="8" y2="6"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  
+</svg>
+<span class='screen-reader-text'>Posted on </span>
+  <time class='entry-date' datetime='2017-09-25T08:00:00&#43;06:00'>2017, Sep 25</time>
+</span>
+
+  <span class='byline'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M21,21V20c0-2.76-4-5-9-5s-9,2.24-9,5v1"/>
+  <path d="M16,6.37A4,4,0,1,1,12.63,3,4,4,0,0,1,16,6.37Z"/>
+  
+</svg>
+<span class='screen-reader-text'> by </span><a href='/authors/muniftanjim'>Munif Tanjim</a></span>
+  
+<span class='reading-time'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <circle cx="12" cy="12" r="10"/>
+  <polyline points="12 6 12 12 15 15"/>
+  
+</svg>
+2 mins read
+</span>
+
+
+</div>
+
+
+  </div>
+</header>
+
+  
+  
+
+  <div class='container entry-content'>
+  <p>This is the Minimo&rsquo;s configuraion file ( <code>config.toml</code> ) file of this site:</p>
+
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml"><span style="color:#a6e22e">baseURL</span> = <span style="color:#e6db74">&#34;http://www.example.com&#34;</span>
+<span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;Loggen&#34;</span>
+<span style="color:#75715e"># for smart copyright line, leave this blank and check [params.copyright]</span>
+<span style="color:#a6e22e">copyright</span> = <span style="color:#e6db74">&#34;&#34;</span>
+
+<span style="color:#a6e22e">theme</span> = <span style="color:#e6db74">&#34;minimo&#34;</span>
+
+<span style="color:#a6e22e">disqusShortname</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">googleAnalytics</span> = <span style="color:#e6db74">&#34;&#34;</span>
+
+<span style="color:#a6e22e">Paginate</span> = <span style="color:#ae81ff">5</span>
+<span style="color:#a6e22e">preserveTaxonomyNames</span> = <span style="color:#66d9ef">true</span>
+
+<span style="color:#a6e22e">enableRobotsTXT</span> = <span style="color:#66d9ef">true</span> <span style="color:#75715e"># generate robots.txt</span>
+
+<span style="color:#75715e"># Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )</span>
+<span style="color:#a6e22e">pygmentsCodefences</span> = <span style="color:#66d9ef">true</span>
+
+<span style="color:#75715e"># Missing translations will default to this content language</span>
+<span style="color:#a6e22e">defaultContentLanguage</span> = <span style="color:#e6db74">&#34;en&#34;</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">info</span>]
+<span style="color:#a6e22e">description</span> = <span style="color:#e6db74">&#34;En slags loggbok&#34;</span>
+<span style="color:#a6e22e">title404</span> = <span style="color:#e6db74">&#34;Nothing&#39;s here!&#34;</span>
+
+<span style="color:#75715e"># eller ett tankegalleri</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">assets</span>]
+<span style="color:#a6e22e">favicon</span> = <span style="color:#e6db74">&#34;favicon.ico&#34;</span>
+<span style="color:#a6e22e">customCSS</span> = [<span style="color:#e6db74">&#34;css/custom.css&#34;</span>]
+<span style="color:#a6e22e">customJS</span> = [<span style="color:#e6db74">&#34;js/custom.js&#34;</span>]
+<span style="color:#a6e22e">gopher</span> = <span style="color:#e6db74">&#34;&#34;</span> <span style="color:#75715e"># used in 404 template ( Generator: https://gopherize.me )</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">copyright</span>]
+<span style="color:#a6e22e">prefix</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">holder</span> = <span style="color:#e6db74">&#34;Erik Nilsson&#34;</span>
+<span style="color:#a6e22e">startYear</span> = <span style="color:#e6db74">&#34;2018&#34;</span>
+<span style="color:#a6e22e">suffix</span> = <span style="color:#e6db74">&#34;&#34;</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">settings</span>]
+<span style="color:#75715e"># date &amp; time format: https://golang.org/pkg/time/</span>
+<span style="color:#a6e22e">dateFormat</span> = <span style="color:#e6db74">&#34;2006, Jan 02&#34;</span>
+<span style="color:#a6e22e">listDateFormat</span> = <span style="color:#e6db74">&#34;2006, Jan 02&#34;</span>
+<span style="color:#a6e22e">archiveDateFormat</span> = <span style="color:#e6db74">&#34;Jan 02&#34;</span>
+<span style="color:#a6e22e">hideEntryNavigation</span> = [<span style="color:#e6db74">&#34;page&#34;</span>] <span style="color:#75715e"># boolean / array of sections</span>
+<span style="color:#a6e22e">hideSocialMenu</span> = <span style="color:#66d9ef">false</span>
+<span style="color:#a6e22e">showReadingTime</span> = <span style="color:#66d9ef">true</span>
+<span style="color:#a6e22e">taxonomyCloudShuffle</span> = <span style="color:#66d9ef">true</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">sidebar</span>]
+<span style="color:#a6e22e">enable</span> = <span style="color:#66d9ef">true</span>
+<span style="color:#a6e22e">sticky</span> = <span style="color:#66d9ef">true</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">widgets</span>]
+<span style="color:#a6e22e">homepage</span> = [<span style="color:#e6db74">&#34;recent_posts&#34;</span>]
+<span style="color:#a6e22e">sidebar</span> = [<span style="color:#e6db74">&#34;about&#34;</span>,<span style="color:#e6db74">&#34;taxonomy_cloud&#34;</span>]
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">opengraph</span>.<span style="color:#a6e22e">facebook</span>]
+<span style="color:#a6e22e">admins</span> = [] <span style="color:#75715e"># array of Facebook IDs</span>
+<span style="color:#a6e22e">appID</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">pageID</span> = <span style="color:#e6db74">&#34;&#34;</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">opengraph</span>.<span style="color:#a6e22e">twitter</span>]
+<span style="color:#a6e22e">page</span> = <span style="color:#e6db74">&#34;eriks_tweets&#34;</span> <span style="color:#75715e"># Twitter page username</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">seo</span>]
+<span style="color:#75715e"># Title Separator: - – — · • * ⋆ | ~ « » &lt; &gt;</span>
+<span style="color:#a6e22e">titleSeparator</span> = <span style="color:#e6db74">&#34;•&#34;</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">social</span>]
+<span style="color:#a6e22e">codepen</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">email</span> = <span style="color:#e6db74">&#34;eeenilsson@gmail.com&#34;</span>
+<span style="color:#a6e22e">facebook</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">github</span> = <span style="color:#e6db74">&#34;eeenilsson&#34;</span>
+<span style="color:#a6e22e">gitlab</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">instagram</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">linkedin</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">twitter</span> = <span style="color:#e6db74">&#34;eriks_tweets&#34;</span>
+<span style="color:#a6e22e">telegram</span> = <span style="color:#e6db74">&#34;&#34;</span>
+<span style="color:#a6e22e">google_scholar</span> = <span style="color:#e6db74">&#34;&#34;</span>
+
+[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">social</span>.<span style="color:#a6e22e">config</span>]
+<span style="color:#a6e22e">platforms</span> = [<span style="color:#e6db74">&#34;github&#34;</span>,<span style="color:#e6db74">&#34;facebook&#34;</span>,<span style="color:#e6db74">&#34;twitter&#34;</span>,<span style="color:#e6db74">&#34;email&#34;</span>]
+<span style="color:#75715e"># ,&#34;codepen&#34;,&#34;gitlab&#34;,&#34;linkedin&#34;,&#34;telegram&#34;,&#34;google_scholar&#34;</span>
+
+[<span style="color:#a6e22e">taxonomies</span>]
+<span style="color:#a6e22e">author</span> = <span style="color:#e6db74">&#34;authors&#34;</span>
+<span style="color:#a6e22e">category</span> = <span style="color:#e6db74">&#34;categories&#34;</span>
+<span style="color:#a6e22e">tag</span> = <span style="color:#e6db74">&#34;tags&#34;</span>
+
+[<span style="color:#a6e22e">permalinks</span>]
+<span style="color:#a6e22e">page</span> = <span style="color:#e6db74">&#34;/:slug/&#34;</span>
+
+<span style="color:#75715e"># [[menu.main]]</span>
+<span style="color:#75715e"># name = &#34;Repo&#34;</span>
+<span style="color:#75715e"># weight = -10</span>
+<span style="color:#75715e"># identifier = &#34;repository&#34;</span>
+<span style="color:#75715e"># url = &#34;https://github.com/eeenilsson/blog.git&#34;</span>
+
+[<span style="color:#a6e22e">blackfriday</span>]
+<span style="color:#a6e22e">hrefTargetBlank</span> = <span style="color:#66d9ef">true</span>
+
+[<span style="color:#a6e22e">languages</span>]
+<span style="color:#75715e"># edit this block for your own language</span>
+[<span style="color:#a6e22e">languages</span>.<span style="color:#a6e22e">en</span>]
+<span style="color:#a6e22e">lang</span> = <span style="color:#e6db74">&#34;en&#34;</span>
+<span style="color:#a6e22e">languageName</span> = <span style="color:#e6db74">&#34;English&#34;</span>
+<span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">1</span></code></pre></div>
+
+</div>
+
+  
+<footer class='entry-footer'>
+  <div class='container sep-before'>
+  <div class='categories'>
+  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
+  
+</svg>
+</span>
+  <span class='screen-reader-text'>Categories: </span><a class='category' href='/categories/others'>Others</a></div>
+
+  </div>
+</footer>
+
+
+</article>
+
+<nav class='entry-nav'>
+  <div class='container'><div class='prev-entry sep-before'>
+      <a href='/docs/updating/'>
+        <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="20" y1="12" x2="4" y2="12"/>
+  <polyline points="10 18 4 12 10 6"/>
+  
+</svg>
+ Previous</span>
+        <span class='screen-reader-text'>Previous post: </span>Updating Guide</a>
+    </div><div class='next-entry sep-before'>
+      <a href='/docs/authors/'>
+        <span class='screen-reader-text'>Next post: </span>Authors Setup Guide<span aria-hidden='true'>Next <svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <line x1="4" y1="12" x2="20" y2="12"/>
+  <polyline points="14 6 20 12 14 18"/>
+  
+</svg>
+</span>
+      </a>
+    </div></div>
+</nav>
+
+
+
+      </main>
+
+      <footer id='footer' class='footer'>
+        <div class='container sep-before'>
+          <section class='widget widget-social_menu sep-after'><nav aria-label='Social Menu'>
+    <ul><li>
+        <a href='https://github.com/eeenilsson' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Github account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='https://twitter.com/eriks_tweets' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Open Twitter account in new tab</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"/>
+  
+</svg>
+</a>
+      </li><li>
+        <a href='mailto:eeenilsson@gmail.com' target='_blank' rel='noopener'>
+          <span class='screen-reader-text'>Contact via Email</span><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+  
+  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+  <polyline points="22,6 12,13 2,6"/>
+  
+</svg>
+</a>
+      </li></ul>
+  </nav>
+</section>
+
+          <div class='copyright'>
+  <p> &copy; 2018 Erik Nilsson </p>
+</div>
+
+        </div>
+      </footer>
+
+    </div>
+  </div><div class='sidebar-overlay'></div><script src='/assets/js/main.89545a27.js'></script><script src='/js/custom.js'></script></body>
+
+</html>
+

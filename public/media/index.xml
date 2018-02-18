@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media Folder on Loggen</title>
+    <link>/media/</link>
+    <description>Recent content in Media Folder on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Logos Folder</title>
+      <link>/media/logos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/media/logos/</guid>
+      <description>Logos  </description>
+    </item>
+    
+  </channel>
+</rss>

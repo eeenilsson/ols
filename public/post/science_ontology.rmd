@@ -1,0 +1,26 @@
+---
+title: "Vetenskaplig världsbild: Skala"
+author: "eriknilsson"
+date: 2018-02-17
+categories: ["Astronomi", "Biologi", "Geologi", "Vetenskapsteori"]
+tags: ["Ontologi", "Vetenskap", "Podcast", "Media"]
+---
+
+Skala: Geologisk och astronomisk skala, mikroskala
+
+Tid: Geologisk tid, relativitet, samtidighet, orsak och verkan
+
+# En film om skala och tiopotenser
+
+<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+
+# Interaktiv animation om skala
+
+[Länk till en interaktiv animation av universums skala av Cary Huang](http://htwins.net/scale2/)
+
+
+# Statististisk termodynamik
+
+Scrödinger.

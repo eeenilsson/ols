@@ -1,0 +1,23 @@
+---
+title: "Astrobiologi"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Astronomi", "Biologi", "Geologi"]
+tags: ["Ontologi", "Vetenskap", "Podcast"]
+---
+
+# Föreläsningar om astrobiologi
+
+"Astronomy 141" är bra grunläggande föreläsningar. "The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences."
+
+Länk: <http://www.astronomy.ohio-state.edu/~pogge/Ast141/>
+
+# Exoplaneter
+
+Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
+
+<iframe width="655" height="368" src="https://www.youtube.com/embed/_DnDeBa0KFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</br>
+
+[Länk: NASA om exoplaneter](https://exoplanets.nasa.gov/)

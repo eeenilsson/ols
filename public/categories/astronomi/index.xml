@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomi on Loggen</title>
+    <link>/categories/astronomi/</link>
+    <description>Recent content in Astronomi on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/astronomi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Astrobiologi</title>
+      <link>/post/2018-02-16-astrobiology/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-02-16-astrobiology/</guid>
+      <description>Föreläsningar om astrobiologi “Astronomy 141” är bra grunläggande föreläsningar. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
+Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
+ Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
+ 
+Länk: NASA om exoplaneter</description>
+    </item>
+    
+    <item>
+      <title>NASA utforskar planeterna</title>
+      <link>/post/2018-02-19-nasa/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-02-19-nasa/</guid>
+      <description>Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
+Länk: https://saturn.jpl.nasa.gov/
+ Juno Rymdsonden vid Jupiter som också tagit fantastiska bilder.
+Länk: https://www.nasa.gov/mission_pages/juno/main/index.html
+ </description>
+    </item>
+    
+    <item>
+      <title>What is life</title>
+      <link>/post/2018-02-16-whatislife/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-02-16-whatislife/</guid>
+      <description>Ämnet “What is Life?” berör livets uppkomst på jorden och förutsättningar för liv. Detta är av betydelse för medicinsk vetenskap eftersom det definierar ramar och regler för liv.
+På Karolinsk Institutet ges en forskarkurs i ämnet: http://kiwas.ki.se/katalog/katalog/kurs/2727;jsessionid=02b7dd071310a0558fbc3a80c4c7.
+Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.wikipedia.org/wiki/What_Is_Life%3F
+ Föreläsningar om astrobiologi: http://www.astronomy.ohio-state.edu/~pogge/Ast141/.
+   </description>
+    </item>
+    
+    <item>
+      <title>Vetenskaplig världsbild: Skala</title>
+      <link>/post/science_ontology_scale/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/science_ontology_scale/</guid>
+      <description>En film om tiopotenser  POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+ En interaktiv animation Länk till en interaktiv animation av universums skala av Cary Huang
+ Statististisk termodynamik och betydelsen av N Schrödinger utan katten.
+ Mantissan: Skala respektive precision. Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som 1.25x10^3 där delen 1.25 (mantissan eller signifikanten) motsvarar då talets precision, emedan 10³ (exponenten, eller eng “power term”) beskriver talets skala.</description>
+    </item>
+    
+    <item>
+      <title>Vetenskaplig världsbild: Tid</title>
+      <link>/post/science_ontology_time/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/science_ontology_time/</guid>
+      <description>Tid: Geologisk tid, relativitet, samtidighet, orsak och verkan
+Tid Geologisk tid
+  </description>
+    </item>
+    
+    <item>
+      <title>Vetenskaplig världsbild: Vår plats i universum</title>
+      <link>/post/science_ontology_universe/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/science_ontology_universe/</guid>
+      <description>Evolution Geologisk tid  Människans evolution  Boktips: Sapiens: A Brief History of Humankind    Universum och astrobiologi “Astronomy 141” är bra grunläggande föreläsningar. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
+Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
+Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.</description>
+    </item>
+    
+  </channel>
+</rss>

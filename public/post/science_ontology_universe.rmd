@@ -1,0 +1,35 @@
+---
+title: "Vetenskaplig världsbild: Vår plats i universum"
+author: "eriknilsson"
+date: 2018-02-10
+categories: ["Astronomi", "Biologi", "Geologi", "Vetenskapsteori"]
+tags: ["Ontologi", "Vetenskap", "Podcast", "Media"]
+---
+
+# Evolution
+
+## Geologisk tid
+
+## Människans evolution
+
+- Boktips: [Sapiens: A Brief History of Humankind](https://en.wikipedia.org/w/index.php?title=Sapiens:_A_Brief_History_of_Humankind&oldid=752895922)
+
+# Universum och astrobiologi
+
+"Astronomy 141" är bra grunläggande föreläsningar. "The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences."
+
+Länk: <http://www.astronomy.ohio-state.edu/~pogge/Ast141/>
+
+### Exoplaneter
+
+Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
+
+<iframe width="655" height="368" src="https://www.youtube.com/embed/_DnDeBa0KFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</br>
+
+[Länk: NASA om exoplaneter](https://exoplanets.nasa.gov/)
+
+### Jämförelse av planeters och stjärnors storlekar
+
+En till film om storlek: <iframe width="694" height="555" src="https://www.youtube.com/embed/HEheh1BH34Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -1,0 +1,13 @@
+---
+title: "Vetenskaplig världsbild: Tid"
+author: "eriknilsson"
+date: 2018-02-17
+categories: ["Astronomi", "Biologi", "Geologi", "Vetenskapsteori"]
+tags: ["Ontologi", "Vetenskap", "Podcast", "Media"]
+---
+
+Tid: Geologisk tid, relativitet, samtidighet, orsak och verkan
+
+# Tid
+
+![Geologisk tid](/geologictime.png)

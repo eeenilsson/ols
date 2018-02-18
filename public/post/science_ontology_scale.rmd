@@ -1,0 +1,28 @@
+---
+title: "Vetenskaplig världsbild: Skala"
+author: "eriknilsson"
+date: 2018-02-17
+categories: ["Astronomi", "Biologi", "Geologi", "Vetenskapsteori"]
+tags: ["Ontologi", "Vetenskap", "Podcast", "Media"]
+---
+
+# En film om tiopotenser
+
+<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+
+# En interaktiv animation
+
+[Länk till en interaktiv animation av universums skala av Cary Huang](http://htwins.net/scale2/)
+
+
+# Statististisk termodynamik och betydelsen av N
+
+Schrödinger utan katten.
+
+# <font color="blue">Mantissan</font>: Skala respektive precision.
+
+Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som <font color="blue">1.25</font>x10^3 där delen <font color="blue">1.25</font> (mantissan eller signifikanten) motsvarar då talets precision, emedan 10³ (exponenten, eller eng "power term") beskriver talets skala.
+
+Om vi till exempel är intresserade av att beskriva avståndet mellan solen och jorden (149 600 000 kilometer) är det oftast inte meningsfullt (eller ens möjligt eftersom det varierar) att ange talet med stor precision. Vi kan då exempelvis välja att ange sträckan med precisionen 150 och skalan x10⁶, dvs <font color="blue">150</font>x10⁶ kilometer.

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Loggen</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Astronomi</title>
+      <link>/tags/astronomi/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/astronomi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authors</title>
+      <link>/tags/authors/</link>
+      <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
+      
+      <guid>/tags/authors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>/tags/config/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>/tags/emacs/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evenemang</title>
+      <link>/tags/evenemang/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evenemang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historia</title>
+      <link>/tags/historia/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/historia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kognition</title>
+      <link>/tags/kognition/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/kognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Litteratur</title>
+      <link>/tags/litteratur/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/litteratur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/tags/media/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nöje</title>
+      <link>/tags/n%C3%B6je/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/n%C3%B6je/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontologi</title>
+      <link>/tags/ontologi/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ontologi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opengraph</title>
+      <link>/tags/og/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>/tags/podcast/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psykiatri</title>
+      <link>/tags/psykiatri/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/psykiatri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>/tags/tips/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vetenskap</title>
+      <link>/tags/vetenskap/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vetenskap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Örebro Läkaresällskap</title>
+      <link>/tags/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

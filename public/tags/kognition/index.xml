@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kognition on Loggen</title>
+    <link>/tags/kognition/</link>
+    <description>Recent content in Kognition on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/kognition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poddar om psykologi, psykiatri och kognition</title>
+      <link>/post/2018-02-17-podcasts-cognition/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-02-17-podcasts-cognition/</guid>
+      <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
+Länk: https://www.npr.org/podcasts/510308/hidden-brain
+Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
+ Oxford psychiatry podcast These podcasts provide an introduction to core topics in psychiatry, and to research undertaken in the Oxford University Department of Psychiatry.</description>
+    </item>
+    
+    <item>
+      <title>The Dunedin Study</title>
+      <link>/post/2018feb-dunedinstudy/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018feb-dunedinstudy/</guid>
+      <description>I “The Dunedin Multidisciplinary Health &amp;amp; Development Study” har man följt 1037 personer födda 1972-73 i över 40 år. Livshistoriens betydelse för åldrande, kognition med mera har studerats. Verkar intressant för att värdera effekter av arv och miljö.
+The Dunedin Study
+Om studien i ett podcastavsnitt från Science:
+ Following 1000 people for decades to learn about the interplay of health, environment, and temperament  </description>
+    </item>
+    
+  </channel>
+</rss>

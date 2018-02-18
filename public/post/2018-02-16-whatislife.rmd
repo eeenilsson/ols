@@ -1,0 +1,18 @@
+---
+title: "What is life"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Astronomi", "Biologi", "Geologi", "Vetenskapsteori"]
+tags: ["Ontologi", "Vetenskap", "Litteratur", "Podcast"]
+---
+
+Ämnet "What is Life?" berör livets uppkomst på jorden och förutsättningar för liv. Detta är av betydelse för medicinsk vetenskap eftersom det definierar ramar och regler för liv. 
+
+På Karolinsk Institutet ges en forskarkurs i ämnet: <http://kiwas.ki.se/katalog/katalog/kurs/2727;jsessionid=02b7dd071310a0558fbc3a80c4c7>.
+
+# Litteratur och andra resurser
+
+- Erwing Shrödingers bok  What is Life? <https://en.wikipedia.org/wiki/What_Is_Life%3F>
+
+- Föreläsningar om astrobiologi: <http://www.astronomy.ohio-state.edu/~pogge/Ast141/>.
+

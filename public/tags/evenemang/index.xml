@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evenemang on Loggen</title>
+    <link>/tags/evenemang/</link>
+    <description>Recent content in Evenemang on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/evenemang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Örebro Läkaresällskap: Chokladprovning 3 maj</title>
+      <link>/post/ols_choklad/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ols_choklad/</guid>
+      <description>Välkommen på chokladprovning!
+Datum: 3 Maj 2018.
+Plats: Örebro.
+Anmälan: Senast [NN] via doodle [Länk här].
+Choklad
+ Länkar om choklad Chokladens historia Youtubeklipp
+Wikipedia text
+ Choklad och hälsa CNN text
+ Diverse Gå en kurs på Nora chokladskola!
+Chokladtemperering - Hur och varför
+  </description>
+    </item>
+    
+    <item>
+      <title>Örebro Läkaresällskap: eHälsa 15 feb</title>
+      <link>/post/ols_ehalsa/</link>
+      <pubDate>Wed, 07 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/ols_ehalsa/</guid>
+      <description>Välkommen på föreläsning om eHälsa och efterföljande middag!
+Datum: 15 Feb 2018.
+Anmälan: STÄNGD.
+Choklad
+ Rapport God stämning och stort intresse! 60 läkare deltog i föreläsning, diskussion och middag. Se länkar nedan angående sådant som nämndes under föreläsningarna.
+ Länkar om eHälsa eHälsomyndigheten: https://www.ehalsomyndigheten.se/
+Företaget Doctrin: http://doctrin.se/
+Läkemedelskollen: https://lakemedelskollen.ehalsomyndigheten.se/lmkoll-web/ [Var det denna Jean-Luc pratade om?]
+Region Örebro län om eHälsa: https://www.regionorebrolan.se/ehalsa
+ </description>
+    </item>
+    
+    <item>
+      <title>Örebro Läkaresällskap: Planerade evenemang under 2018</title>
+      <link>/post/ols_planerat2018/</link>
+      <pubDate>Tue, 16 Jan 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/ols_planerat2018/</guid>
+      <description>Nedan följer en lista på de evenemang som planeras under 2018 (preliminära datum).
+ eHälsa 15 feb.
+ Chokladprovning 3 maj.
+ Sjukvårdsdebatt med landstingspartierna.
+ Aktiv dödshjälp.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

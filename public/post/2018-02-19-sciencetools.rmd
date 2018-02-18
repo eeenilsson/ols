@@ -1,0 +1,29 @@
+---
+title: "Verktyg för forskning"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Vetenskap"]
+tags: ["Tips", "R", "emacs", "Vetenskap"]
+---
+
+De två programmen nedan täcker 90% av forskningsarbetet.
+
+# R 
+
+R är et program för statistikberäkningar, men kan användas för en hel del andra saker, tex datahantering, att producera figurer, flödesscheman med mera.
+
+Skillnaden mot andra vanliga statistikprogram (tex SPSS) är att man skriver kommandon som vid programmering snarare än att välja från menyer. En nackdel är att det tar tid att lära sig, men när man väl gjort det finns många fördelar.
+
+Jag använder R för hela kedjan i forsknigsabetet, från datahantering, till statistik, till uppställning av tabeller.
+
+Länk: <https://www.r-project.org/>
+
+Förslag på packages: dplyr, knitr, tidyverse.
+
+# Emacs
+
+Emacs är ett textredigeringsprogram. Med emacs-ESS kan man integrera R i emacs och därmed använda emacs som gränssnitt för R. 
+
+Jag använder emacs för att programmera R (emacs-ess), skriva manus (knitr), hantera referenser (bibtex), projekthantering (org-mode) med mera.
+
+Förslag på packages: emacs-ess, r+markdown-mode, org-mode, ivy, abbrev.

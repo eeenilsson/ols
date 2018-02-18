@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Litteratur on Loggen</title>
+    <link>/tags/litteratur/</link>
+    <description>Recent content in Litteratur on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/litteratur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vansinnet i historia och litteratur</title>
+      <link>/post/madness/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/madness/</guid>
+      <description>Övrigt Dan Carlins podcast om religiöst vansinne i den Tyska staden Mûnster under 1500-talet:
+ Murderous milennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora’s Box of religious anarchy with the Protestant Revolution.
+ Länk: Prophets of Doom
+Distanskursen “Narrating madness” vid Umeå Universitet:
+ While locating texts within their contemporary contexts as far as religion, gender and medicine, the course will engage with significant modern theoretical discussions of madness and creativity as offered by Foucault, Freud and others.</description>
+    </item>
+    
+    <item>
+      <title>What is life</title>
+      <link>/post/2018-02-16-whatislife/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-02-16-whatislife/</guid>
+      <description>Ämnet “What is Life?” berör livets uppkomst på jorden och förutsättningar för liv. Detta är av betydelse för medicinsk vetenskap eftersom det definierar ramar och regler för liv.
+På Karolinsk Institutet ges en forskarkurs i ämnet: http://kiwas.ki.se/katalog/katalog/kurs/2727;jsessionid=02b7dd071310a0558fbc3a80c4c7.
+Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.wikipedia.org/wiki/What_Is_Life%3F
+ Föreläsningar om astrobiologi: http://www.astronomy.ohio-state.edu/~pogge/Ast141/.
+   </description>
+    </item>
+    
+  </channel>
+</rss>

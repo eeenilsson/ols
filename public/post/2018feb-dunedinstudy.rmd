@@ -1,0 +1,15 @@
+---
+title: "The Dunedin Study"
+author: ["eriknilsson"]
+date: 2018-01-20
+categories: ["Vetenskap"]
+tags: ["Podcast", "Vetenskap", "Psykiatri", "Kognition"]
+---
+
+I "The Dunedin Multidisciplinary Health & Development Study" har man följt 1037 personer födda 1972-73 i över 40 år. Livshistoriens betydelse för åldrande, kognition med mera har studerats. Verkar intressant för att värdera effekter av arv och miljö.
+
+[The Dunedin Study](https://dunedinstudy.otago.ac.nz/)
+
+Om studien i ett podcastavsnitt från Science: 
+
+- [Following 1000 people for decades to learn about the interplay of health, environment, and temperament](http://www.sciencemag.org/podcast/following-1000-people-decades-learn-about-interplay-health-environment-and-temperament-and)

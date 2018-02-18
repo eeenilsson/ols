@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Loggen</title>
+    <link>/tags/emacs/</link>
+    <description>Recent content in Emacs on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Verktyg för forskning</title>
+      <link>/post/2018-02-19-sciencetools/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-02-19-sciencetools/</guid>
+      <description>De två programmen nedan täcker 90% av forskningsarbetet.
+R R är et program för statistikberäkningar, men kan användas för en hel del andra saker, tex datahantering, att producera figurer, flödesscheman med mera.
+Skillnaden mot andra vanliga statistikprogram (tex SPSS) är att man skriver kommandon som vid programmering snarare än att välja från menyer. En nackdel är att det tar tid att lära sig, men när man väl gjort det finns många fördelar.</description>
+    </item>
+    
+  </channel>
+</rss>
