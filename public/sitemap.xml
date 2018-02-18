@@ -18,68 +18,8 @@
   </url>
   
   <url>
-    <loc>/post/kuhn_popper/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018-02-16-astrobiology/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018-02-19-nasa/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/history/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018-02-17-podcasts-cognition/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018-02-19-sciencepod/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/madness/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018-02-19-sciencetools/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018-02-16-whatislife/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/science_ontology_scale/</loc>
-    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/science_ontology_time/</loc>
-    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/ols_choklad/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/science_ontology_universe/</loc>
-    <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -100,11 +40,6 @@
   <url>
     <loc>/docs/widgets/</loc>
     <lastmod>2018-02-12T23:40:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2018feb-dunedinstudy/</loc>
-    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,18 +103,6 @@
   </url>
   
   <url>
-    <loc>/categories/astronomi/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/astronomi/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
     <priority>0</priority>
@@ -190,25 +113,12 @@
   </url>
   
   <url>
-    <loc>/categories/biologi/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/config/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/emacs/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -224,62 +134,14 @@
   </url>
   
   <url>
-    <loc>/categories/geologi/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/historia/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/historia/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/kognition/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/litteratur/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/media/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/muniftanjim/</loc>
     <lastmod>2018-02-09T16:15:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/neurovetenskap/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/n%C3%B6je/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ontologi/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,26 +162,8 @@
   </url>
   
   <url>
-    <loc>/tags/podcast/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/psykiatri/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/psykiatri/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -330,44 +174,14 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tips/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/tutorial/</loc>
     <lastmod>2018-02-08T14:45:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/vetenskap/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/vetenskap/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/vetenskapsteori/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

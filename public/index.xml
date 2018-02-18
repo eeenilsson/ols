@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Loggen</title>
+    <title>Home on Örebro Läkaresällskap</title>
     <link>/</link>
-    <description>Recent content in Home on Loggen</description>
+    <description>Recent content in Home on Örebro Läkaresällskap</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
@@ -24,142 +24,6 @@ Jonas Ludvigsson, Barnkliniken, Örebro (Ordförande)</description>
     </item>
     
     <item>
-      <title>Kuhn och Popper</title>
-      <link>/post/kuhn_popper/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/kuhn_popper/</guid>
-      <description>Paradigm och falsifiering Kuhn och Popper.
- </description>
-    </item>
-    
-    <item>
-      <title>Astrobiologi</title>
-      <link>/post/2018-02-16-astrobiology/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-16-astrobiology/</guid>
-      <description>Föreläsningar om astrobiologi “Astronomy 141” är bra grunläggande föreläsningar. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
-Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
- Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
- 
-Länk: NASA om exoplaneter</description>
-    </item>
-    
-    <item>
-      <title>NASA utforskar planeterna</title>
-      <link>/post/2018-02-19-nasa/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-19-nasa/</guid>
-      <description>Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
-Länk: https://saturn.jpl.nasa.gov/
- Juno Rymdsonden vid Jupiter som också tagit fantastiska bilder.
-Länk: https://www.nasa.gov/mission_pages/juno/main/index.html
- </description>
-    </item>
-    
-    <item>
-      <title>Podcast: Historia</title>
-      <link>/post/history/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/history/</guid>
-      <description>Dan Carlin “King of Kings” En inlevelsefullt berättad och djuplodande berättelse om gamla kungariken i mellanöstern och sydeuropa.
-Tre delar, varav vissa finns att ladda ner gratis: King of Kings del I.
-Dan Carlin har producerat flera intressanta poddar på olika historiska teman: Blueprint for Armagedddon och Wrath of the Khans rekommenderas.
- Historipodden Pratsam och underhållande podd på temat historia, av två historielärare.
-Länk till historiepodden
- </description>
-    </item>
-    
-    <item>
-      <title>Poddar om psykologi, psykiatri och kognition</title>
-      <link>/post/2018-02-17-podcasts-cognition/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-17-podcasts-cognition/</guid>
-      <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
-Länk: https://www.npr.org/podcasts/510308/hidden-brain
-Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
- Oxford psychiatry podcast These podcasts provide an introduction to core topics in psychiatry, and to research undertaken in the Oxford University Department of Psychiatry.</description>
-    </item>
-    
-    <item>
-      <title>Poddar om vetenskap</title>
-      <link>/post/2018-02-19-sciencepod/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-19-sciencepod/</guid>
-      <description>Science podcast En podd från American Association for the Advancement of Science (AAAS) som sammanfattar intressanta vetenskapsnyheter från olika fält, iblad med intervjuer av forskare som ligger bakom nya rön.
-Länk: http://www.sciencemag.org/podcasts
-Intressanta avsnitt:
- Building conscious machines
- Following 1000 people for decades to learn about the interplay of health, environment, and temperament
-   </description>
-    </item>
-    
-    <item>
-      <title>Vansinnet i historia och litteratur</title>
-      <link>/post/madness/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/madness/</guid>
-      <description>Övrigt Dan Carlins podcast om religiöst vansinne i den Tyska staden Mûnster under 1500-talet:
- Murderous milennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora’s Box of religious anarchy with the Protestant Revolution.
- Länk: Prophets of Doom
-Distanskursen “Narrating madness” vid Umeå Universitet:
- While locating texts within their contemporary contexts as far as religion, gender and medicine, the course will engage with significant modern theoretical discussions of madness and creativity as offered by Foucault, Freud and others.</description>
-    </item>
-    
-    <item>
-      <title>Verktyg för forskning</title>
-      <link>/post/2018-02-19-sciencetools/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-19-sciencetools/</guid>
-      <description>De två programmen nedan täcker 90% av forskningsarbetet.
-R R är et program för statistikberäkningar, men kan användas för en hel del andra saker, tex datahantering, att producera figurer, flödesscheman med mera.
-Skillnaden mot andra vanliga statistikprogram (tex SPSS) är att man skriver kommandon som vid programmering snarare än att välja från menyer. En nackdel är att det tar tid att lära sig, men när man väl gjort det finns många fördelar.</description>
-    </item>
-    
-    <item>
-      <title>What is life</title>
-      <link>/post/2018-02-16-whatislife/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-16-whatislife/</guid>
-      <description>Ämnet “What is Life?” berör livets uppkomst på jorden och förutsättningar för liv. Detta är av betydelse för medicinsk vetenskap eftersom det definierar ramar och regler för liv.
-På Karolinsk Institutet ges en forskarkurs i ämnet: http://kiwas.ki.se/katalog/katalog/kurs/2727;jsessionid=02b7dd071310a0558fbc3a80c4c7.
-Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.wikipedia.org/wiki/What_Is_Life%3F
- Föreläsningar om astrobiologi: http://www.astronomy.ohio-state.edu/~pogge/Ast141/.
-   </description>
-    </item>
-    
-    <item>
-      <title>Vetenskaplig världsbild: Skala</title>
-      <link>/post/science_ontology_scale/</link>
-      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/science_ontology_scale/</guid>
-      <description>En film om tiopotenser  POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
- En interaktiv animation Länk till en interaktiv animation av universums skala av Cary Huang
- Statististisk termodynamik och betydelsen av N Schrödinger utan katten.
- Mantissan: Skala respektive precision. Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som 1.25x10^3 där delen 1.25 (mantissan eller signifikanten) motsvarar då talets precision, emedan 10³ (exponenten, eller eng “power term”) beskriver talets skala.</description>
-    </item>
-    
-    <item>
-      <title>Vetenskaplig världsbild: Tid</title>
-      <link>/post/science_ontology_time/</link>
-      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/science_ontology_time/</guid>
-      <description>Tid: Geologisk tid, relativitet, samtidighet, orsak och verkan
-Tid Geologisk tid
-  </description>
-    </item>
-    
-    <item>
       <title>Örebro Läkaresällskap: Chokladprovning 3 maj</title>
       <link>/post/ols_choklad/</link>
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
@@ -176,17 +40,6 @@ Wikipedia text
  Diverse Gå en kurs på Nora chokladskola!
 Chokladtemperering - Hur och varför
   </description>
-    </item>
-    
-    <item>
-      <title>Vetenskaplig världsbild: Vår plats i universum</title>
-      <link>/post/science_ontology_universe/</link>
-      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/science_ontology_universe/</guid>
-      <description>Evolution Geologisk tid  Människans evolution  Boktips: Sapiens: A Brief History of Humankind    Universum och astrobiologi “Astronomy 141” är bra grunläggande föreläsningar. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
-Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
-Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.</description>
     </item>
     
     <item>
@@ -238,18 +91,6 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
 Available Widgets Minimo has the following built-in Widgets:
    Name Slug     1. About about   2. Recent Posts recent_posts   3. Social Menu social_menu   4. Taxonomy Cloud taxonomy_cloud    Widget Configuration Options Here are the configuration options available for the Widgets:
 Widget: About  about [Map]:  title [String]: Title</description>
-    </item>
-    
-    <item>
-      <title>The Dunedin Study</title>
-      <link>/post/2018feb-dunedinstudy/</link>
-      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018feb-dunedinstudy/</guid>
-      <description>I “The Dunedin Multidisciplinary Health &amp;amp; Development Study” har man följt 1037 personer födda 1972-73 i över 40 år. Livshistoriens betydelse för åldrande, kognition med mera har studerats. Verkar intressant för att värdera effekter av arv och miljö.
-The Dunedin Study
-Om studien i ett podcastavsnitt från Science:
- Following 1000 people for decades to learn about the interplay of health, environment, and temperament  </description>
     </item>
     
     <item>
@@ -361,7 +202,7 @@ id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#
       
       <guid>/docs/config-file/</guid>
       <description>This is the Minimo&amp;rsquo;s configuraion file ( config.toml ) file of this site:
-baseURL = &amp;#34;http://www.example.com&amp;#34; title = &amp;#34;Loggen&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
+baseURL = &amp;#34;http://www.example.com&amp;#34; title = &amp;#34;Örebro Läkaresällskap&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
     </item>
     
     <item>

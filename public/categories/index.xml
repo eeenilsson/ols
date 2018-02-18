@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Loggen</title>
+    <title>Categories on Örebro Läkaresällskap</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Loggen</description>
+    <description>Recent content in Categories on Örebro Läkaresällskap</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Astronomi</title>
-      <link>/categories/astronomi/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/astronomi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biologi</title>
-      <link>/categories/biologi/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/biologi/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Features</title>
@@ -38,47 +19,11 @@
     </item>
     
     <item>
-      <title>Geologi</title>
-      <link>/categories/geologi/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/geologi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Historia</title>
-      <link>/categories/historia/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/historia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neurovetenskap</title>
-      <link>/categories/neurovetenskap/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/neurovetenskap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Others</title>
       <link>/categories/others/</link>
       <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
       
       <guid>/categories/others/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psykiatri</title>
-      <link>/categories/psykiatri/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/psykiatri/</guid>
       <description></description>
     </item>
     
@@ -97,24 +42,6 @@
       <pubDate>Mon, 25 Sep 2017 06:00:00 +0600</pubDate>
       
       <guid>/categories/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vetenskap</title>
-      <link>/categories/vetenskap/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/vetenskap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vetenskapsteori</title>
-      <link>/categories/vetenskapsteori/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/vetenskapsteori/</guid>
       <description></description>
     </item>
     

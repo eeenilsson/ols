@@ -23,8 +23,11 @@ setwd("/home/eee/e/ols")
 ## Step 4: Serve Site
 getwd()
 blogdown::serve_site()
+getwd()
 
-
+## Ikoner
+## För webbflik: Lägg favicon.ico (32x32px) i /themes/minimo/static. Där ligger även en kopia som heter "favicon-32x32.png", oklart vad den gör
+## Var ligger hemikonen??
 
 ## Notes ----------------------------------
 

@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "Loggen"
+title = "Örebro Läkaresällskap"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -20,10 +20,8 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "En slags loggbok"
-title404 = "Nothing's here!"
-
-# eller ett tankegalleri
+description = "Blogg"
+title404 = "Inget här!"
 
 [params.assets]
 favicon = "favicon.ico"
@@ -33,7 +31,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "Erik Nilsson"
+holder = "Örebro Läkaresällskap"
 startYear = "2018"
 suffix = ""
 
@@ -69,13 +67,13 @@ titleSeparator = "•"
 
 [params.social]
 codepen = ""
-email = "eeenilsson@gmail.com"
+email = "tilleriknilsson@gmail.com"
 facebook = ""
 github = "eeenilsson"
 gitlab = ""
 instagram = ""
 linkedin = ""
-twitter = "eriks_tweets"
+twitter = ""
 telegram = ""
 google_scholar = ""
 

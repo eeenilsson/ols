@@ -1,80 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nöje on Loggen</title>
+    <title>Nöje on Örebro Läkaresällskap</title>
     <link>/tags/n%C3%B6je/</link>
-    <description>Recent content in Nöje on Loggen</description>
+    <description>Recent content in Nöje on Örebro Läkaresällskap</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/n%C3%B6je/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>NASA utforskar planeterna</title>
-      <link>/post/2018-02-19-nasa/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-19-nasa/</guid>
-      <description>Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
-Länk: https://saturn.jpl.nasa.gov/
- Juno Rymdsonden vid Jupiter som också tagit fantastiska bilder.
-Länk: https://www.nasa.gov/mission_pages/juno/main/index.html
- </description>
-    </item>
-    
-    <item>
-      <title>Podcast: Historia</title>
-      <link>/post/history/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/history/</guid>
-      <description>Dan Carlin “King of Kings” En inlevelsefullt berättad och djuplodande berättelse om gamla kungariken i mellanöstern och sydeuropa.
-Tre delar, varav vissa finns att ladda ner gratis: King of Kings del I.
-Dan Carlin har producerat flera intressanta poddar på olika historiska teman: Blueprint for Armagedddon och Wrath of the Khans rekommenderas.
- Historipodden Pratsam och underhållande podd på temat historia, av två historielärare.
-Länk till historiepodden
- </description>
-    </item>
-    
-    <item>
-      <title>Poddar om psykologi, psykiatri och kognition</title>
-      <link>/post/2018-02-17-podcasts-cognition/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-17-podcasts-cognition/</guid>
-      <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
-Länk: https://www.npr.org/podcasts/510308/hidden-brain
-Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
- Oxford psychiatry podcast These podcasts provide an introduction to core topics in psychiatry, and to research undertaken in the Oxford University Department of Psychiatry.</description>
-    </item>
-    
-    <item>
-      <title>Poddar om vetenskap</title>
-      <link>/post/2018-02-19-sciencepod/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2018-02-19-sciencepod/</guid>
-      <description>Science podcast En podd från American Association for the Advancement of Science (AAAS) som sammanfattar intressanta vetenskapsnyheter från olika fält, iblad med intervjuer av forskare som ligger bakom nya rön.
-Länk: http://www.sciencemag.org/podcasts
-Intressanta avsnitt:
- Building conscious machines
- Following 1000 people for decades to learn about the interplay of health, environment, and temperament
-   </description>
-    </item>
-    
-    <item>
-      <title>Vansinnet i historia och litteratur</title>
-      <link>/post/madness/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/madness/</guid>
-      <description>Övrigt Dan Carlins podcast om religiöst vansinne i den Tyska staden Mûnster under 1500-talet:
- Murderous milennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora’s Box of religious anarchy with the Protestant Revolution.
- Länk: Prophets of Doom
-Distanskursen “Narrating madness” vid Umeå Universitet:
- While locating texts within their contemporary contexts as far as religion, gender and medicine, the course will engage with significant modern theoretical discussions of madness and creativity as offered by Foucault, Freud and others.</description>
-    </item>
     
     <item>
       <title>Örebro Läkaresällskap: Chokladprovning 3 maj</title>

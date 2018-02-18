@@ -15,7 +15,7 @@ date: 2018-01-01
 
 # Evenemang
 
-För kommande och tidigare evenemang, <span style="font-size:larger;"><b>[klicka här](https://loggen.netlify.com/tags/Evenemang)!</b></span>
+För kommande och tidigare evenemang, <span style="font-size:larger;"><b>[klicka här](https://ols.netlify.com/tags/Evenemang)!</b></span>
 
 
 
