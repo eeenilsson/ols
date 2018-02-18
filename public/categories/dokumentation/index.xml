@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dokumentation on Örebro Läkaresällskap</title>
+    <link>/categories/dokumentation/</link>
+    <description>Recent content in Dokumentation on Örebro Läkaresällskap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/dokumentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Örebro Läkaresällskap</title>
+      <link>/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</guid>
+      <description>Örebro Läkaresällskap grundades år 1904. Sällskapet syftar till att främja vetenskap, utbildning och kollegiala aktiviteter. Under flera år arrangerade Örebro Läkaresällskap de så kallade Läkardagarna.
+Örebro Läkaresällskap är en lokal avdelning tillhörande Svenska Läkaresällskapet . Medlemskap i den lokala avdelningen innebär inte automatiskt medlemskap i Svenska Läkaresällskapet.
+Styrelse Till ny styrelse valdes den 31 augusti 2017:
+Jonas Ludvigsson, Barnkliniken, Örebro (Ordförande)
+Lovisa Paulsson, Barnkliniken, Örebro (Kassör)
+Åsa Athlin, Olaus Petri vårdcentral, Örebro</description>
+    </item>
+    
+  </channel>
+</rss>

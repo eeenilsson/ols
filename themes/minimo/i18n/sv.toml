@@ -1,0 +1,81 @@
+[author]
+one = "Författare"
+other = "Författare"
+
+[by]
+other = "av"
+
+[category]
+one = "Kategori"
+other = "Kategorier"
+
+[contactViaEmail]
+other = "Kontakt via epost"
+
+[currentPage]
+other = "Nuvarande sida"
+
+[gopher]
+other = "Gopher"
+
+[goHome]
+other = "Go Home..."
+
+[mainMenu]
+other = "Huvudmeny"
+
+[next]
+other = "Nästa"
+
+[nextPage]
+other = "Nästa sida"
+
+[nextPost]
+other = "Nästa inlägg"
+
+[noTerm]
+other = "Not a single {{ .Term }}!"
+
+[openAccountInNewTab]
+other = "Open {{ .Platform }} account in new tab"
+
+[page]
+other = "Sida"
+
+[previous]
+other = "Föregående"
+
+[previousPage]
+other = "Föregående sida"
+
+[previousPost]
+other = "Föregående inlägg"
+
+[postedOn]
+other = "Postat på"
+
+[readingTime]
+one = "En minuts läsning"
+other = "{{ .Count }} minuters läsning"
+
+[recentPosts]
+other = "Inlägg"
+
+[skipToContent]
+other = "Skip to Content"
+
+[skipToMainMenu]
+other = "Skip to Main Menu"
+
+[socialMenu]
+other = "Social Meny"
+
+[tableOfContents]
+other = "Innehållsförteckning"
+
+[tag]
+one = "Tagg"
+other = "Taggar"
+
+[toggleSidebar]
+other = "Toggle Sidebar"
