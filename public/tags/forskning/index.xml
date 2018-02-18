@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forskning on Örebro Läkaresällskap</title>
+    <link>/tags/forskning/</link>
+    <description>Recent content in Forskning on Örebro Läkaresällskap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/forskning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forskningsanslag från Örebro Läkaresällskap</title>
+      <link>/forskningsanslag-fr%C3%A5n-%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/forskningsanslag-fr%C3%A5n-%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</guid>
+      <description>Avisering av forskningsanslag kommer att göras här på hemsidan.
+ För närvarande finns inga forskningsanslag att söka.
+ För att se aktuella och tidigare aviseringar av forskningsanslag, klicka här.</description>
+    </item>
+    
+  </channel>
+</rss>

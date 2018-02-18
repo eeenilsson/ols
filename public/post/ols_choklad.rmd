@@ -2,8 +2,8 @@
 title: "Örebro Läkaresällskap: Chokladprovning 3 maj"
 author: "Erik Nilsson"
 date: 2018-02-16
-categories: ["Anslag"]
-tags: ["Nöje", "Evenemang"]
+categories: ["anslag"]
+tags: ["evenemang", "mat"]
 ---
 
 Välkommen på chokladprovning! 
@@ -13,6 +13,8 @@ Datum: 3 Maj 2018.
 Plats: Örebro.
 
 Anmälan: Senast [NN] via doodle [Länk här].
+
+[Länk test](https://docs.google.com/forms/d/e/1FAIpQLScLbyBOKcN7M6UgTduVbZLlWKlY7-5GeWhoeYio511n_IL9HQ/viewform?usp=sf_link)
 
 ![Choklad](/affisch_choklad.jpg)
 

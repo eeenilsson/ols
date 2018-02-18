@@ -2,8 +2,8 @@
 title: "Örebro Läkaresällskap: Planerade evenemang under 2018"
 author: "Erik Nilsson"
 date: 2018-02-15T00:00:01
-categories: ["Anslag"]
-tags: ["Nöje", "Evenemang"]
+categories: [anslag]
+tags: [evenemang]
 ---
 
 Nedan följer en lista på de evenemang som planeras under 2018 (preliminära datum).

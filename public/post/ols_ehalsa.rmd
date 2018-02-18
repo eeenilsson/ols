@@ -2,8 +2,8 @@
 title: "Örebro Läkaresällskap: eHälsa 15 feb"
 author: "Erik Nilsson"
 date: 2018-02-15
-categories: ["Anslag"]
-tags: ["Nöje", "Evenemang"]
+categories: ["anslag"]
+tags: ["evenemang", "e-hälsa"]
 ---
 
 Välkommen på föreläsning om eHälsa och efterföljande middag! 

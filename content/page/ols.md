@@ -4,10 +4,8 @@ linkTitle: OM
 description: Om Örebro Läkaresällskap
 menu: main
 weight: -210
-categories:
-  - dokumentation
-tags:
-  - dokumentation
+categories: [dokumentation]
+tags: [dokumentation]
 date: 2018-01-01
 ---
 

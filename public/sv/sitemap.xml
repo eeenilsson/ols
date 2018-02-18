@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>/forskningsanslag-fr%C3%A5n-%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -159,13 +164,19 @@
   
   <url>
     <loc>/categories/dokumentation/</loc>
-    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/dokumentation/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/e-h%C3%A4lsa/</loc>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -182,14 +193,20 @@
   </url>
   
   <url>
-    <loc>/authors/muniftanjim/</loc>
-    <lastmod>2018-02-12T23:40:00+06:00</lastmod>
+    <loc>/tags/forskning/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/n%C3%B6je/</loc>
+    <loc>/tags/mat/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/muniftanjim/</loc>
+    <lastmod>2018-02-12T23:40:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   

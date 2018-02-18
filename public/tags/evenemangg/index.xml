@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Evenemangg on Örebro Läkaresällskap</title>
+    <link>/tags/evenemangg/</link>
+    <description>Recent content in Evenemangg on Örebro Läkaresällskap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 15 Feb 2018 00:00:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/evenemangg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Örebro Läkaresällskap: Planerade evenemang under 2018</title>
+      <link>/post/ols_planerat2018/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:01 +0000</pubDate>
+      
+      <guid>/post/ols_planerat2018/</guid>
+      <description>Nedan följer en lista på de evenemang som planeras under 2018 (preliminära datum).
+ eHälsa 15 feb.
+ Chokladprovning 3 maj.
+ Sjukvårdsdebatt med landstingspartierna.
+ Debatt om dödshjälp.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
