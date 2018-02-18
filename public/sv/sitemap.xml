@@ -119,12 +119,6 @@
   </url>
   
   <url>
-    <loc>/tags/authors/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -159,13 +153,13 @@
   </url>
   
   <url>
-    <loc>/tags/dokumentation/</loc>
+    <loc>/categories/dokumentation/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/dokumentation/</loc>
+    <loc>/tags/dokumentation/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -224,7 +218,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

@@ -8,6 +8,7 @@ categories:
 slug: menus
 toc: true
 ---
+
 Minimo has two menus.
 
 1. Main Menu

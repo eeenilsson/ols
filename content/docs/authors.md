@@ -5,8 +5,6 @@ title: Authors Setup Guide
 authors: ["muniftanjim"]
 categories:
   - features
-tags:
-  - authors
 slug: authors
 ---
 Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site's **`config.toml`**:

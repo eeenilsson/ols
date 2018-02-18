@@ -44,6 +44,7 @@ output:
  
 Don't know if placing of TOC can be controlled though?
 
+Putting only "toc: true" in yaml header also works. It seems the toc layout is different dependeing on content?
 
 # Including Plots
 
