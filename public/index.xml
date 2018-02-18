@@ -11,16 +11,17 @@
     
     
     <item>
-      <title>ÖrebroLäkare</title>
-      <link>/%C3%B6rebrol%C3%A4kare/</link>
+      <title>Örebro Läkaresällskap</title>
+      <link>/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/%C3%B6rebrol%C3%A4kare/</guid>
+      <guid>/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</guid>
       <description>Örebro Läkaresällskap grundades år 1904. Sällskapet syftar till att främja vetenskap, utbildning och kollegiala aktiviteter. Under flera år arrangerade Örebro Läkaresällskap de så kallade Läkardagarna.
 Örebro Läkaresällskap är en lokal avdelning tillhörande Svenska Läkaresällskapet . Medlemskap i den lokala avdelningen innebär inte automatiskt medlemskap i Svenska Läkaresällskapet.
-Evenemang För kommande och tidigare evenemang, klicka här!
 Styrelse Till ny styrelse valdes den 31 augusti 2017:
-Jonas Ludvigsson, Barnkliniken, Örebro (Ordförande)</description>
+Jonas Ludvigsson, Barnkliniken, Örebro (Ordförande)
+Lovisa Paulsson, Barnkliniken, Örebro (Kassör)
+Åsa Athlin, Olaus Petri vårdcentral, Örebro</description>
     </item>
     
     <item>
@@ -192,7 +193,7 @@ id = &amp;#34;muniftanjim&amp;#34; [email] username = &amp;#34;muniftanjim&amp;#
       
       <guid>/docs/config-file/</guid>
       <description>This is the Minimo&amp;rsquo;s configuraion file ( config.toml ) file of this site:
-baseURL = &amp;#34;http://www.example.com&amp;#34; title = &amp;#34;Örebro Läkaresällskap&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;en&amp;#34; [params.</description>
+baseURL = &amp;#34;http://www.example.com&amp;#34; title = &amp;#34;Örebro Läkaresällskap&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; theme = &amp;#34;minimo&amp;#34; disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.txt # Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ ) pygmentsCodefences = true # Missing translations will default to this content language defaultContentLanguage = &amp;#34;sv&amp;#34; [params.</description>
     </item>
     
     <item>

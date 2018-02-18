@@ -17,7 +17,7 @@ enableRobotsTXT = true # generate robots.txt
 pygmentsCodefences = true
 
 # Missing translations will default to this content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "sv"
 
 [params.info]
 description = "Blogg"
@@ -103,4 +103,8 @@ hrefTargetBlank = true
 [languages.en]
 lang = "en"
 languageName = "English"
+weight = 1
+[languages.sv]
+lang = "sv"
+languageName = "Svenska"
 weight = 1

@@ -6,7 +6,7 @@ logo = "/images/logo.png"             # default: "/images/logo.png"
 
 # Recent Posts Widget config
 [recent_posts]
-title = ""                            # default: "Recent Posts"
+title = "Inlägg"                            # default: "Recent Post"
 length = 4                            # default: 5
 excludeTypes = ["page"]               # default: ["page"]
 

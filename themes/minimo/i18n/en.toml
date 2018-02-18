@@ -59,7 +59,7 @@ one = "One min read"
 other = "{{ .Count }} mins read"
 
 [recentPosts]
-other = "Recent Posts"
+other = "Recent Posts" # This changes title
 
 [skipToContent]
 other = "Skip to Content"
