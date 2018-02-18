@@ -5,20 +5,10 @@
     <link>/docs/</link>
     <description>Recent content in Documentation on Örebro Läkaresällskap</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Feb 2018 19:15:00 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2018 18:30:00 +0600</lastBuildDate>
     
 	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Sidebar</title>
-      <link>/docs/sidebar/</link>
-      <pubDate>Wed, 07 Feb 2018 19:15:00 +0600</pubDate>
-      
-      <guid>/docs/sidebar/</guid>
-      <description>Enabling Sidebar For enabling Sidebar, use the following configuration options in your config.toml file:
-[params.sidebar] enable = true sticky = true  params.sidebar [Map]:  enable [Boolean]: Switch for enabling sidebar sticky [Boolean]: If false, sidebar scrolls with page   Adding Widgets to Sidebar For adding Widgets to the Sidebar, check the Widgets documentation.</description>
-    </item>
     
     <item>
       <title>Typography</title>
@@ -163,6 +153,16 @@ After you&amp;rsquo;re done with that, it&amp;rsquo;s time for installing Minimo
 Installing Minimo There are two different ways you can install Minimo:
  As clone As submodule  The second method is recommended.
 Install Minimo as clone With this method, you will simply clone it. And a copy of Minimo&amp;rsquo;s repository will be stored with the rest of you site.</description>
+    </item>
+    
+    <item>
+      <title>Sidebar</title>
+      <link>/docs/sidebar/</link>
+      <pubDate>Sun, 07 Feb 2016 19:15:00 +0600</pubDate>
+      
+      <guid>/docs/sidebar/</guid>
+      <description>Enabling Sidebar For enabling Sidebar, use the following configuration options in your config.toml file:
+[params.sidebar] enable = true sticky = true  params.sidebar [Map]:  enable [Boolean]: Switch for enabling sidebar sticky [Boolean]: If false, sidebar scrolls with page   Adding Widgets to Sidebar For adding Widgets to the Sidebar, check the Widgets documentation.</description>
     </item>
     
     <item>

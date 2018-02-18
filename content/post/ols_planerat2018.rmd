@@ -1,7 +1,7 @@
 ---
 title: "Örebro Läkaresällskap: Planerade evenemang under 2018"
 author: "Erik Nilsson"
-date: 2018-01-16T21:13:14-05:00
+date: 2018-02-15T00:00:01
 categories: ["Örebro Läkaresällskap"]
 tags: ["Evenemang", "Örebro Läkaresällskap"]
 ---
@@ -14,5 +14,5 @@ Nedan följer en lista på de evenemang som planeras under 2018 (preliminära da
 
 - Sjukvårdsdebatt med landstingspartierna.
 
-- Aktiv dödshjälp.
+- Debatt om dödshjälp.
 

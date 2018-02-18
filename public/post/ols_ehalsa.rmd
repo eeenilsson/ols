@@ -1,7 +1,7 @@
 ---
 title: "Örebro Läkaresällskap: eHälsa 15 feb"
 author: "Erik Nilsson"
-date: 2018-02-07T21:13:14-05:00
+date: 2018-02-15
 categories: ["Örebro Läkaresällskap"]
 tags: ["Nöje", "Evenemang", "Örebro Läkaresällskap"]
 ---

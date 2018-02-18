@@ -3,5 +3,6 @@ title: Home
 menu: main
 weight: -270
 ---
-> It would be a hopeless, endless task to catalogue all these things. Let a handful suffice.
-> — Herman Melville, Moby-Dick; or, The Whale.
+
+> Opinio facit medicos: a fair gown, a velvet cap, the name of a doctor is all in all.
+> — Robert Burton, The Anatomy of Melancholy.

@@ -10,7 +10,7 @@
 ## Step 1: Make an empty repo on github
 
 ## Step 2: Clone empty repo to pc
-setwd("/home/eee/e/blog") # Start R in the new empty folder
+##setwd("/home/eee/e/blog") # Start R in the new empty folder
 setwd("/home/eee/e/ols")
 
 ## Step 3: Create site

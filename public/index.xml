@@ -43,9 +43,23 @@ Chokladtemperering - Hur och varför
     </item>
     
     <item>
+      <title>Örebro Läkaresällskap: Planerade evenemang under 2018</title>
+      <link>/post/ols_planerat2018/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:01 +0000</pubDate>
+      
+      <guid>/post/ols_planerat2018/</guid>
+      <description>Nedan följer en lista på de evenemang som planeras under 2018 (preliminära datum).
+ eHälsa 15 feb.
+ Chokladprovning 3 maj.
+ Sjukvårdsdebatt med landstingspartierna.
+ Debatt om dödshjälp.
+  </description>
+    </item>
+    
+    <item>
       <title>Örebro Läkaresällskap: eHälsa 15 feb</title>
       <link>/post/ols_ehalsa/</link>
-      <pubDate>Wed, 07 Feb 2018 21:13:14 -0500</pubDate>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/ols_ehalsa/</guid>
       <description>Välkommen på föreläsning om eHälsa och efterföljande middag!
@@ -58,16 +72,6 @@ Företaget Doctrin: http://doctrin.se/
 Läkemedelskollen: https://lakemedelskollen.ehalsomyndigheten.se/lmkoll-web/ [Var det denna Jean-Luc pratade om?]
 Region Örebro län om eHälsa: https://www.regionorebrolan.se/ehalsa
  </description>
-    </item>
-    
-    <item>
-      <title>Sidebar</title>
-      <link>/docs/sidebar/</link>
-      <pubDate>Wed, 07 Feb 2018 19:15:00 +0600</pubDate>
-      
-      <guid>/docs/sidebar/</guid>
-      <description>Enabling Sidebar For enabling Sidebar, use the following configuration options in your config.toml file:
-[params.sidebar] enable = true sticky = true  params.sidebar [Map]:  enable [Boolean]: Switch for enabling sidebar sticky [Boolean]: If false, sidebar scrolls with page   Adding Widgets to Sidebar For adding Widgets to the Sidebar, check the Widgets documentation.</description>
     </item>
     
     <item>
@@ -91,20 +95,6 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
 Available Widgets Minimo has the following built-in Widgets:
    Name Slug     1. About about   2. Recent Posts recent_posts   3. Social Menu social_menu   4. Taxonomy Cloud taxonomy_cloud    Widget Configuration Options Here are the configuration options available for the Widgets:
 Widget: About  about [Map]:  title [String]: Title</description>
-    </item>
-    
-    <item>
-      <title>Örebro Läkaresällskap: Planerade evenemang under 2018</title>
-      <link>/post/ols_planerat2018/</link>
-      <pubDate>Tue, 16 Jan 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/ols_planerat2018/</guid>
-      <description>Nedan följer en lista på de evenemang som planeras under 2018 (preliminära datum).
- eHälsa 15 feb.
- Chokladprovning 3 maj.
- Sjukvårdsdebatt med landstingspartierna.
- Aktiv dödshjälp.
-  </description>
     </item>
     
     <item>
@@ -227,6 +217,16 @@ After you&amp;rsquo;re done with that, it&amp;rsquo;s time for installing Minimo
 Installing Minimo There are two different ways you can install Minimo:
  As clone As submodule  The second method is recommended.
 Install Minimo as clone With this method, you will simply clone it. And a copy of Minimo&amp;rsquo;s repository will be stored with the rest of you site.</description>
+    </item>
+    
+    <item>
+      <title>Sidebar</title>
+      <link>/docs/sidebar/</link>
+      <pubDate>Sun, 07 Feb 2016 19:15:00 +0600</pubDate>
+      
+      <guid>/docs/sidebar/</guid>
+      <description>Enabling Sidebar For enabling Sidebar, use the following configuration options in your config.toml file:
+[params.sidebar] enable = true sticky = true  params.sidebar [Map]:  enable [Boolean]: Switch for enabling sidebar sticky [Boolean]: If false, sidebar scrolls with page   Adding Widgets to Sidebar For adding Widgets to the Sidebar, check the Widgets documentation.</description>
     </item>
     
     <item>
