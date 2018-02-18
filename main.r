@@ -25,8 +25,13 @@ getwd()
 blogdown::serve_site()
 
 
-## Notes
-## Add .gitignore with !*.* to include all files
+
+## Notes ----------------------------------
+
+## Note: Add .gitignore
+## Add .gitignore with below content to include all files
+## !*
+## *.*~
 
 ## Note gitignore .md and .html, png etc
 ## Note: Use git add --force *
