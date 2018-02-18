@@ -113,6 +113,11 @@
   </url>
   
   <url>
+    <loc>/docs/taggar/</loc>
+    <lastmod>2017-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/docs/sidebar/</loc>
     <lastmod>2016-02-09T16:15:00+06:00</lastmod>
   </url>
@@ -177,6 +182,12 @@
   <url>
     <loc>/tags/e-h%C3%A4lsa/</loc>
     <lastmod>2018-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/eriknilsson/</loc>
+    <lastmod>2017-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

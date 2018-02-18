@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eriknilsson on Örebro Läkaresällskap</title>
+    <link>/authors/eriknilsson/</link>
+    <description>Recent content in Eriknilsson on Örebro Läkaresällskap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/eriknilsson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taggar</title>
+      <link>/docs/taggar/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/taggar/</guid>
+      <description>Tips om hur du skriver taggar i dokument på den här webbplatsen.
+Skriv taggar med små bokstäver, exempelvis [evenemang] snarare än [Evenemang]. På så vis blir det lättare att få interna länkar att fungera.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
 title: Forskningsanslag från Örebro Läkaresällskap
 linkTitle: Forskning
-description: För att främja forskning delar Örebro Läkaresällskap ut forskningsanslag.
+description: För att främja vetenskap delar Örebro Läkaresällskap ut forskningsanslag.
 menu: main
 weight: -210
 tags: [forskning, dokumentation]

@@ -16,7 +16,8 @@
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/evenemang/</guid>
-      <description>För kommande och tidigare evenemang, klicka här.
+      <description>För att se kommande och tidigare evenemang, klicka här.
+För att delta bör du vara medlem i Örebro Läkaresällskap. Under 2017-18 erhålls gratis medlemskap vid deltagande i evenemang.
 Välkommen!</description>
     </item>
     
@@ -55,7 +56,6 @@ Lovisa Paulsson, Barnkliniken, Örebro (Kassör)
 Datum: 3 Maj 2018.
 Plats: Örebro.
 Anmälan: Senast [NN] via doodle [Länk här].
-Länk test
 Choklad
  Länkar om choklad Chokladens historia Youtubeklipp
 Wikipedia text
@@ -240,6 +240,16 @@ After you&amp;rsquo;re done with that, it&amp;rsquo;s time for installing Minimo
 Installing Minimo There are two different ways you can install Minimo:
  As clone As submodule  The second method is recommended.
 Install Minimo as clone With this method, you will simply clone it. And a copy of Minimo&amp;rsquo;s repository will be stored with the rest of you site.</description>
+    </item>
+    
+    <item>
+      <title>Taggar</title>
+      <link>/docs/taggar/</link>
+      <pubDate>Mon, 06 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/taggar/</guid>
+      <description>Tips om hur du skriver taggar i dokument på den här webbplatsen.
+Skriv taggar med små bokstäver, exempelvis [evenemang] snarare än [Evenemang]. På så vis blir det lättare att få interna länkar att fungera.</description>
     </item>
     
     <item>
