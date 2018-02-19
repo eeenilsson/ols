@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dokumentation on Örebro Läkaresällskap</title>
-    <link>/categories/dokumentation/</link>
-    <description>Recent content in Dokumentation on Örebro Läkaresällskap</description>
+    <title>Information on Örebro Läkaresällskap</title>
+    <link>/categories/information/</link>
+    <description>Recent content in Information on Örebro Läkaresällskap</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/dokumentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/information/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -1,11 +1,11 @@
 ---
 title: Evenemang
 linkTitle: Evenemang
-description: För att främja kollegiala aktiviteter anordnar Örebro Läkaresällskap olika evenemang för medlemar.
+description: För att främja kollegiala aktiviteter anordnar Örebro Läkaresällskap olika evenemang för medlemmar.
 menu: main
 weight: -210
 categories: [anslag]
-tags: [dokumentation]
+tags: [information]
 date: 2018-02-16
 ---
 

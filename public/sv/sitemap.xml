@@ -28,12 +28,12 @@
   </url>
   
   <url>
-    <loc>/forskningsanslag-fr%C3%A5n-%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
+    <loc>/forskning/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
+    <loc>/om/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -174,12 +174,6 @@
   </url>
   
   <url>
-    <loc>/tags/dokumentation/</loc>
-    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/e-h%C3%A4lsa/</loc>
     <lastmod>2018-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -206,6 +200,18 @@
   <url>
     <loc>/tags/forskning/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/information/</loc>
+    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/information/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -251,7 +257,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

@@ -1,11 +1,12 @@
 ---
 title: Örebro Läkaresällskap
 linkTitle: OM
-description: Om Örebro Läkaresällskap
+description: Information om Örebro Läkaresällskap.
 menu: main
 weight: -210
-categories: [dokumentation]
-tags: [dokumentation]
+categories: [information, dokumentation]
+tags: [information]
+slug: om
 date: 2018-01-01
 ---
 
