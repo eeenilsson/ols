@@ -13,4 +13,9 @@ För kommande och tidigare evenemang, <span style="font-size:larger;"><b>[klicka
 
 # Från twitter
 
+## Senaste
+
+<a class="twitter-timeline" href="https://twitter.com/orebrolakare?ref_src=twsrc%5Etfw">Tweets by orebrolakare</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## Tweeta
 <a href="https://twitter.com/intent/tweet?button_hashtag=orebrolakare&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #orebrolakare</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
