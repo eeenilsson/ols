@@ -5,7 +5,7 @@ menu: main
 weight: -270
 ---
 
-> Välkommen!
+> Välkommen! Här hittar du information om våra aktiviteter.
 
 För kommande och tidigare evenemang, <span style="font-size:larger;"><b>[klicka här](/tags/evenemang)!</b></span>
 

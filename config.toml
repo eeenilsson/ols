@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "sv"
 
 [params.info]
-description = "Blogg"
+description = "Blogg."
 title404 = "Inget här!"
 
 [params.assets]
