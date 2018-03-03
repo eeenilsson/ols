@@ -12,7 +12,7 @@ Datum: 15 Feb 2018.
 
 Anmälan: STÄNGD.
 
-![Choklad](/affisch_choklad.jpg)
+![eHälsa](/media/ehalsa.png)
 
 # Rapport
 
@@ -20,10 +20,12 @@ God stämning och stort intresse! 60 läkare deltog i föreläsning, diskussion 
 
 # Länkar om eHälsa
 
-eHälsomyndigheten: <https://www.ehalsomyndigheten.se/>
+&#x1F517; [eHälsomyndigheten](https://www.ehalsomyndigheten.se/)
 
-Företaget Doctrin: <http://doctrin.se/>
+&#x1F517; [Företaget Doctrin](http://doctrin.se/)
 
-Läkemedelskollen: <https://lakemedelskollen.ehalsomyndigheten.se/lmkoll-web/> [Var det denna Jean-Luc pratade om?]
+&#x1F517;  [Läkemedelskollen](https://lakemedelskollen.ehalsomyndigheten.se/lmkoll-web/)
 
-Region Örebro län om eHälsa: <https://www.regionorebrolan.se/ehalsa>
+&#x1F517; [Region Örebro län om eHälsa](https://www.regionorebrolan.se/ehalsa)
+
+
