@@ -9,6 +9,8 @@
 
 ## Step 1: Make an empty repo on github
 
+wd <- getwd()
+
 ## Step 2: Clone empty repo to pc
 ##setwd("/home/eee/e/blog") # Start R in the new empty folder
 setwd("/home/eee/e/ols")
@@ -24,6 +26,8 @@ setwd("/home/eee/e/ols")
 getwd()
 blogdown::serve_site()
 getwd()
+
+setwd(wd)
 
 ## Ikoner
 ## För webbflik: Lägg favicon.ico (32x32px) i /themes/minimo/static. Där ligger även en kopia som heter "favicon-32x32.png", oklart vad den gör

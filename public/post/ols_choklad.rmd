@@ -6,9 +6,9 @@ categories: ["anslag"]
 tags: ["evenemang", "mat"]
 ---
 
-Välkommen på chokladprovning! 
+Välkommen på chokladprovning och föreläsning! 
 
-Provningen anordnas av [Kaffe & pralin](https://www.kaffepralin.com/).
+Provningen anordnas av [Kaffe & pralin](https://www.kaffepralin.com/). Kardiolog Thomas Kellerth inleder med föreläsningen ”Choklad och hjärtats hälsa”.
 
 Datum: 3 Maj 2018.
 
@@ -16,9 +16,9 @@ Tid: 18.00
 
 Plats: Behrn Hotel, Örebro.
 
-Anmälan: Senast 2018-04-17 via [detta webb-formulär](https://goo.gl/forms/oqdmZgxpHsOzflyM2).
+<!-- Anmälan: Senast 2018-04-17 via [detta webb-formulär](https://goo.gl/forms/oqdmZgxpHsOzflyM2). -->
 
-Antalet platser är begränsade och ett bekräftelsemail kommer att skickas efter 17 april.
+<!-- Antalet platser är begränsade och ett bekräftelsemail kommer att skickas efter 17 april. -->
 
 ![Choklad](/affisch_choklad.jpg)
 
