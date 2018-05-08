@@ -43,13 +43,13 @@
   </url>
   
   <url>
-    <loc>/post/ols_choklad/</loc>
+    <loc>/post/ols_sjukvardsdebatt/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/ols_sjukvardsdebatt/</loc>
-    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <loc>/post/ols_choklad/</loc>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -214,20 +214,20 @@
   </url>
   
   <url>
-    <loc>/categories/information/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/information/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/categories/information/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/mat/</loc>
-    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

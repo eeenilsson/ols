@@ -1,5 +1,5 @@
 ---
-title: "Örebro Läkaresällskap: Sjukvårdsdebatt med de politiska partierna 28 augusti"
+title: "Sjukvårdsdebatt med de politiska partierna 28 augusti"
 author: "Erik Nilsson"
 date: 2018-05-08
 categories: ["anslag"]
@@ -17,7 +17,7 @@ Plats: Universitetssjukhuset Örebro, Wilandersalen (Stora Entrén M, sedan till
 
 Anmälan: EJ ÖPPNAT ÄNNU.
 
-Längre ner på sidan finner du information om regionfullmäktige, sjukvårdspolitik i allmänhet och de politiska partiernas sjukvårdsprogram.
+_Längre ner på sidan finner du information om regionfullmäktige, sjukvårdspolitik i allmänhet och de politiska partiernas sjukvårdsprogram._
 
 ![eHälsa](/media/ehalsa.png)
 
@@ -27,7 +27,7 @@ Längre ner på sidan finner du information om regionfullmäktige, sjukvårdspol
 
 &#x1F517;  [Regionstyrelsen](https://www.regionorebrolan.se/sv/Politik/Sa-styrs-landstinget/Regionstyrelsen/)
 
-&#x1F517;[Läkarförbundets sjukvårdspolitik](https://www.slf.se/Vi-tycker/Halso--och-sjukvardspolitik/)
+&#x1F517; [Läkarförbundets sjukvårdspolitik](https://www.slf.se/Vi-tycker/Halso--och-sjukvardspolitik/)
 
 # Mandatfördelning i Regionfullmäktige 2015-2018
 
@@ -52,7 +52,7 @@ pie3D(slices,
 
 ``` 
 
-Förkortningar (mandat):
+**Figur: Tårtdiagram**. Förkortningar (mandat):
 S, Socialdemokraterna (29);
 M, Moderaterna (13);
 SD, Sverigedemokraterna (8);
@@ -62,7 +62,7 @@ KD, Kristdemokraterna (4);
 C, Centerpartiet (4);
 L, Liberalerna (4).
 
-## Partierna nationellt om sjukvården
+# Partierna nationellt om sjukvården
 
 Klicka på partinamnet!
 
@@ -88,6 +88,6 @@ Klicka på partinamnet!
 &#x1F517; [Centerpartiet](https://www.centerpartiet.se/var-politik/politik-a-o/vard-och-omsorg/sjukvard) (C), 4 mandat
 
 ![L](/media/l.jpg)
-&#x1F517; [Centerpartiet](https://www.liberalerna.se/politik/sjukvard/) (L), 4 mandat
+&#x1F517; [Liberalerna](https://www.liberalerna.se/politik/sjukvard/) (L), 4 mandat
 
 
