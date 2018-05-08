@@ -6,17 +6,18 @@ categories: ["anslag"]
 tags: ["evenemang", "e-hälsa"]
 ---
 
+# Rapport
+
+God stämning och stort intresse! 60 läkare deltog i föreläsning, diskussion och middag. Se länkar nedan angående sådant som nämndes under föreläsningarna.
+
+![eHälsa](/media/ehalsa.png)
+
 Välkommen på föreläsning om eHälsa och efterföljande middag! 
 
 Datum: 15 Feb 2018. 
 
 Anmälan: STÄNGD.
 
-![eHälsa](/media/ehalsa.png)
-
-# Rapport
-
-God stämning och stort intresse! 60 läkare deltog i föreläsning, diskussion och middag. Se länkar nedan angående sådant som nämndes under föreläsningarna.
 
 # Länkar om eHälsa
 

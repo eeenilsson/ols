@@ -1,10 +1,18 @@
 ---
 title: "Örebro Läkaresällskap: Chokladprovning 3 maj"
 author: "Erik Nilsson"
-date: 2018-02-16
+date: 2018-05-08
 categories: ["anslag"]
 tags: ["evenemang", "mat"]
 ---
+
+# Rapport
+
+Kvällens välbesökta chokladprovning inleddes med en uppskattad föreläsning av kardiolog Thomas Kellerth som träffsäkert inledde med Europeiska Komissionens riktlinjer om ["Health Claims"](https://ec.europa.eu/food/safety/labelling_nutrition/claims/health_claims_en) och exemplifierade med sådana kopplade till choklad. Beståndsdelar som [theobromin](https://en.wikipedia.org/wiki/Theobromine) och [epicatechin](https://pubchem.ncbi.nlm.nih.gov/compound/_-_-Epicatechin#section=Top) beskrevs insiktsfullt. Vi fick även en exposé av chokladens historia och påstådda hälsoeffekter, där bland annat Carl von Linné och Montesuma figurerade.
+
+Därefter guidade Maria fån Kaffe & Pralin oss genom chokladens historia och tekniska landvinningar såsom [Konrad van Houtens](https://en.wikipedia.org/wiki/Coenraad_Johannes_van_Houten) alkaliniseringsprocess och Rudolf Lindts fantastiska ["Cochmaskin"](https://en.wikipedia.org/wiki/Rodolphe_Lindt), samtidigt som olika delikatesser smakades av publiken. En personlig favorit var vit chokladpralin med passionsfruktstryffel.
+
+![Choklad](/affisch_choklad.jpg)
 
 Välkommen på chokladprovning och föreläsning! 
 
@@ -16,11 +24,11 @@ Tid: 18.00
 
 Plats: Behrn Hotel, Örebro.
 
+Anmälan: STÄNGD
+
 <!-- Anmälan: Senast 2018-04-17 via [detta webb-formulär](https://goo.gl/forms/oqdmZgxpHsOzflyM2). -->
 
 <!-- Antalet platser är begränsade och ett bekräftelsemail kommer att skickas efter 17 april. -->
-
-![Choklad](/affisch_choklad.jpg)
 
 # Länkar om choklad
 
@@ -39,3 +47,4 @@ Plats: Behrn Hotel, Örebro.
 &#x1F517; [Gå en kurs på Nora chokladskola!](http://www.chokladskolan.com/)
 
 &#x1F517; [Chokladtemperering - Hur och varför](https://www.ecolechocolat.com/en/chocolate-tempering.html)
+
