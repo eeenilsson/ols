@@ -13,9 +13,9 @@ OBS! Anmälan krävs (via länk nedan).
 
 Datum: 28 Augusti 2018. 
 
-Plats: Universitetssjukhuset Örebro, Wilandersalen (Stora Entrén M, sedan till höger)
+Plats: Universitetssjukhuset Örebro, Wilandersalen (Stora Entrén M, sedan till höger).
 
-Anmälan: EJ ÖPPNAT ÄNNU.
+Anmälan: EJ ÖPPNAT ÄNNU. Deltagande är gratis och du behöver inte vara medlem.
 
 _Längre ner på sidan finner du information om regionfullmäktige, sjukvårdspolitik i allmänhet och de politiska partiernas sjukvårdsprogram._
 
@@ -52,7 +52,7 @@ pie3D(slices,
 
 ``` 
 
-**Figur: Tårtdiagram**. Förkortningar (mandat):
+**Tårtdiagram över mandatfördelningen i regionfullmäktige.** Förkortningar (mandat):
 S, Socialdemokraterna (29);
 M, Moderaterna (13);
 SD, Sverigedemokraterna (8);
@@ -71,6 +71,8 @@ Klicka på partinamnet!
 
 ![M](/media/m.jpg)
 &#x1F517; [Moderaterna](https://moderaterna.se/halso-och-sjukvard) (M), 13 mandat
+
+<!-- [Moderaterna i Regionen](https://moderaterna.se/orebro/regionen) -->
 
 ![SD](/media/sd.jpg)
 &#x1F517; [Sverigedemokraterna](https://sd.se/var-politik/sjukvardspolitik/) (SD), 8 mandat
