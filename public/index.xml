@@ -47,20 +47,6 @@ Lovisa Paulsson, Barnkliniken, Örebro (Kassör)
     </item>
     
     <item>
-      <title>Örebro Läkaresällskap: Planerade evenemang under 2018</title>
-      <link>/post/ols_planerat2018/</link>
-      <pubDate>Tue, 08 May 2018 14:00:01 +0000</pubDate>
-      
-      <guid>/post/ols_planerat2018/</guid>
-      <description>Nedan följer en lista på de evenemang som planeras under 2018 (preliminära datum).
- eHälsa 15 feb.
- Chokladprovning 3 maj.
- Sjukvårdsdebatt med landstingspartierna 28 augusti.
- Debatt om dödshjälp 4 oktober.
-  </description>
-    </item>
-    
-    <item>
       <title>Sjukvårdsdebatt med de politiska partierna 28 augusti</title>
       <link>/post/ols_sjukvardsdebatt/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
@@ -69,17 +55,17 @@ Lovisa Paulsson, Barnkliniken, Örebro (Kassör)
       <description>Örebro Läkaresällskap och Örebro Läns Läkarförening bjuder in till sjukvårdsdebatt med de politiska partierna i regionfullmäktige. Välkommen!
 OBS! Anmälan krävs (via länk nedan).
 Datum: 28 Augusti 2018.
+Tid: NNNN
 Plats: Universitetssjukhuset Örebro, Wilandersalen (Stora Entrén M, sedan till höger).
 Anmälan: EJ ÖPPNAT ÄNNU. Deltagande är gratis och du behöver inte vara medlem.
-Längre ner på sidan finner du information om regionfullmäktige, sjukvårdspolitik i allmänhet och de politiska partiernas sjukvårdsprogram.
-eHälsa
- Länkar om sjukvårdspolitik 🔗 Regionfullmäktige</description>
+Efter debatten serveras kaffe i foajén.
+Längre ner på sidan finner du information om regionfullmäktige, sjukvårdspolitik i allmänhet och de politiska partiernas sjukvårdsprogram.</description>
     </item>
     
     <item>
       <title>Örebro Läkaresällskap: Chokladprovning 3 maj</title>
       <link>/post/ols_choklad/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/ols_choklad/</guid>
       <description>Rapport Kvällens välbesökta chokladprovning inleddes med en uppskattad föreläsning av kardiolog Thomas Kellerth som träffsäkert inledde med Europeiska Komissionens riktlinjer om “Health Claims” och exemplifierade med sådana kopplade till choklad. Beståndsdelar som theobromin och epicatechin beskrevs insiktsfullt. Vi fick även en exposé av chokladens historia och påstådda hälsoeffekter, där bland annat Carl von Linné och Montesuma figurerade.
@@ -134,6 +120,20 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
 Available Widgets Minimo has the following built-in Widgets:
    Name Slug     1. About about   2. Recent Posts recent_posts   3. Social Menu social_menu   4. Taxonomy Cloud taxonomy_cloud    Widget Configuration Options Here are the configuration options available for the Widgets:
 Widget: About  about [Map]:  title [String]: Title</description>
+    </item>
+    
+    <item>
+      <title>Örebro Läkaresällskap: Planerade evenemang under 2018</title>
+      <link>/post/ols_planerat2018/</link>
+      <pubDate>Mon, 01 Jan 2018 14:00:01 +0000</pubDate>
+      
+      <guid>/post/ols_planerat2018/</guid>
+      <description>Nedan följer en lista på de evenemang som planeras under 2018 (preliminära datum).
+ eHälsa 15 feb.
+ Chokladprovning 3 maj.
+ Sjukvårdsdebatt med de politiska partierna 28 augusti.
+ Debatt om dödshjälp 4 oktober.
+  </description>
     </item>
     
     <item>

@@ -38,18 +38,13 @@
   </url>
   
   <url>
-    <loc>/post/ols_planerat2018/</loc>
-    <lastmod>2018-05-08T14:00:01+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/ols_sjukvardsdebatt/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/ols_choklad/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -70,6 +65,11 @@
   <url>
     <loc>/docs/widgets/</loc>
     <lastmod>2018-02-12T23:40:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ols_planerat2018/</loc>
+    <lastmod>2018-01-01T14:00:01+00:00</lastmod>
   </url>
   
   <url>
@@ -197,7 +197,7 @@
   
   <url>
     <loc>/tags/evenemang/</loc>
-    <lastmod>2018-05-08T14:00:01+00:00</lastmod>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,20 +214,20 @@
   </url>
   
   <url>
-    <loc>/categories/information/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/information/</loc>
     <lastmod>2018-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/categories/information/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/mat/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -261,7 +261,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-05-08T14:00:01+00:00</lastmod>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
