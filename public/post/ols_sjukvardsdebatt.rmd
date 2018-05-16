@@ -13,17 +13,17 @@ OBS! Anmälan krävs (via länk nedan).
 
 Datum: 28 Augusti 2018. 
 
-Tid: NNNN
+Tid: 18.00-20.00. _Debatten börjar 18.00 så du behöver vara på plats några minuter innan för att hinna sätta dig._
 
 Plats: Universitetssjukhuset Örebro, Wilandersalen (Stora Entrén M, sedan till höger).
 
-Anmälan: EJ ÖPPNAT ÄNNU. Deltagande är gratis och du behöver inte vara medlem.
+Anmälan: &#x1F517; [Klicka här för anmälan](https://goo.gl/forms/DJxiw1VuERJYu30U2), senast 14 augusti. Deltagande är gratis och du behöver inte vara medlem.
 
 Efter debatten serveras kaffe i foajén.
 
 _Längre ner på sidan finner du information om regionfullmäktige, sjukvårdspolitik i allmänhet och de politiska partiernas sjukvårdsprogram._
 
-![Denna bild skall bytas ut](/media/ehalsa.png)
+<!-- ![Denna bild skall bytas ut](/media/ehalsa.png) -->
 
 # Länkar om sjukvårdspolitik
 
@@ -65,6 +65,17 @@ MP, Miljöpartiet (4);
 KD, Kristdemokraterna (4);
 C, Centerpartiet (4);
 L, Liberalerna (4).
+
+# Deltagare i debatten
+
+Från de politiska partierna deltar: Bechet Barsom (KD),
+Anna Ågerfalk (L),
+Torbjörn Ahlin (C),
+Camilla Hansen (MP),
+Andreas Svahn (S), 
+Ola Karlsson (M),
+Jihad Menhem (V),
+Per Söderlund (SD).
 
 # Partierna nationellt om sjukvården
 
