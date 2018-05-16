@@ -12,3 +12,5 @@ För kommande och tidigare evenemang, <span style="font-size:larger;"><b>[klicka
 <!-- https://orebrolakare.netlify.com/tags/Evenemang -->
 
 Följ oss på twitter: <a href="https://twitter.com/orebrolakare?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @orebrolakare</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <!-- (Följ) -->
+
+Vill du kontakta oss eller lämna synpunkter? Skriv på Twitter eller eposta genom att klicka på det lilla kuvertet längst ner på sidan.
