@@ -6,6 +6,7 @@
 ## blogdown::install_hugo()
 ## blogdown::update_hugo()
 ## install.packages('later')
+## install.packages('plotrix')
 
 ## Step 1: Make an empty repo on github
 

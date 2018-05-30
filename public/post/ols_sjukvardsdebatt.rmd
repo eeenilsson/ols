@@ -21,7 +21,7 @@ Anmälan: &#x1F517; [Klicka här för anmälan](https://goo.gl/forms/DJxiw1VuERJ
 
 _Längre ner på sidan finner du information om regionfullmäktige, sjukvårdspolitik i allmänhet och de politiska partiernas sjukvårdsprogram._
 
-<!-- ![Denna bild skall bytas ut](/media/ehalsa.png) -->
+![Valdebatt](/media/valdebatt.png)
 
 # Länkar om sjukvårdspolitik
 
