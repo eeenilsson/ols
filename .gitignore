@@ -2,3 +2,4 @@
 *.*~
 *.xcf
 /public/* ## ignore public folder
+.httr-oauth

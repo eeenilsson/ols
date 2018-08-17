@@ -1,3 +1,6 @@
+## packages
+pacman::p_load(tidyverse, rmarkdown, knitr, tidyr, googledrive)
+
 ## blogdown
 
 ## Packages
@@ -33,6 +36,49 @@ setwd(wd)
 ## Ikoner
 ## För webbflik: Lägg favicon.ico (32x32px) i /themes/minimo/static. Där ligger även en kopia som heter "favicon-32x32.png", oklart vad den gör
 ## Var ligger hemikonen??
+
+## google drive
+## drive_find(n_max = 50)
+## s <- drive_find(pattern = "Anmälan", n_max = 50)
+## s$name[1]
+## drive_download("Anmälan till Sjukvårdsdebatt med de politiska partierna (Responses)", type = "csv")
+## Note: Swedish cahracters not working (?)
+s <- drive_find(pattern = "anm", n_max = 50)
+s$name[1]
+
+drive_download(s$name[1], type = "csv")
+anm_sjvdb <- read_csv("anm_sjvdb.csv")
+
+nrow(anm_sjvdb) ## antal anmälda
+paste(anm_sjvdb["Email address"][[1]], collapse = ", ")
+
+## render
+render("politikerdebatt-fragor-grupperade.rmd", "word_document", encoding="UTF-8")
+
+## 177 anmälda
+## Laktos 3
+## Gluten 6
+## Vegan 2
+
+17.15 Foajen wilandersalen, dukas upp.
+
+Surdegsfrall amed veganröra
+27 + 19  + moms = 51.50
+carina.kjellstrom@regionorebrolan.se
+9115.5
+Dela upp fakturan på två
+
+Praliner 10 kr/st
+1770 kr
+
+Lokal 1000 kr
+
+(1000 + 1770)/2 + 9115.5/2
+
+ 9115.5 - 5942
+
+
+Summa 10885.5 kr
 
 ## Notes ----------------------------------
 
