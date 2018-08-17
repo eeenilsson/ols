@@ -1,0 +1,179 @@
+
+---
+title: FRÅGOR TILL POLITIKERNA I REGIONFULLMÄKTIGE
+output:
+  word_document:
+    reference_docx: ../bibliography/manuscript_word_style.docx
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(
+                      #fig.width=12,
+                      #fig.height=8,
+                      #fig.path='figs/',
+                      echo=FALSE,
+                      warning=FALSE,
+                      message=FALSE)
+```
+
+Version:  `r format(Sys.time(), '%Y-%m-%d')`
+
+- Behöver redigeras och sållas ytterligare
+
+- Namn på avsändare skall tas bort innan frågorna skickas till politikerna.
+
+Varje övergripande fråga är en rubrik. Exempel på följdfrågor som kan ställas kommer sedan i punktform.
+
+## Hur ser ni på frågan om bemanning och kompetensförsörjning inom vården? Vilka lösningar föreslår ni?
+
+_Tillgången på kompetent personal inom många områden och ykesgrupper (sjuksköterskor, psykoterapeuter och läkare) och efterfrågan är inte i balans vid de lönenivåer som Region Örebro län erbjuder. Det innebär att många tjänster inte kan besättas. Att förlita sig på inhyrd personal innebär kvalitets och effektivitetsförluster, i synnerhet eftersom de hyrläkare som kan hellre väljer andra landsting/regioner bl.a. p.g.a. korta avtal.  Verksamhetschefer inom Region Örebro län har idag inte mandat att anställa personal till de löner som är marknadsmässiga utan godkännande av HR och Områdeschef/förvaltningschef vilket är en omständlig och tidskrävande process. Rekryteringar misslyckas pga detta. Samtidigt är verksamhetcheferna ansvariga för vårdens kvalitet, säkerhet och budget. Om inte rätt kompetens får anställas till marknadspris innebär det stora svårigheter att klara uppdraget._  
+
+- Är nuvarande ordning i samklang med Hälso och sjukvårdslagens intentioner? 
+
+- Bör verksamhetcheferna få större makt över anställningsprocessen och lönesättningen?
+
+_Det stora inflödet av människor till vårt land bidrar till att lösa kompetensförsörjningsutmaningen i offentlig sektor framöver. Utan tillskottet till RÖL hade situationen varit katastrofal._ 
+
+- På vilket sätt skall vi snabbt säkerställa riktad utbildning i tillräcklig omfattning för att dessa människors bidrag skall komma landet (RÖL) till gagn?
+
+_Och..._
+
+- Bör RÖL minska beroendet av stafettläkare? Hur? [OLS]
+
+- Hur ska vi lösa bristen på distriktsläkare i Region Örebro län? [OLS]
+
+- Bör vi utbilda fler läkare och sjuksköterskor i Sverige? [OLS]
+
+## Hur ser ni på arbetsmiljön för vårdpersonal?
+
+- Finns det några problem ni vill lyfta? 
+
+- Vilka lösningar ser ni?
+
+## Hur ser ni på tillgänglighet i vården?
+
+- Hur uppnår vi hög tillgänglighet för akuta problem (i synnerhet i primärvården)
+
+- Hur får vi kortare köer (ffa inom psykiatrin)? [OLS]
+
+- Hur kan vi stärka primärvården? [OLS]
+
+- Bör man ha möjlighet att lista sig hos en viss läkare? [OLS]
+
+- Bör vi ha en skärpt vårdgaranti? [OLS]
+
+## Hur ser ni på privata aktörer i vården?
+
+- Bör vi ha fler privata aktörer inom vården? [OLS]
+
+- Hur mycket ska privata vårdaktörer få gå med vinst i RegionÖrebrolän? Ingen vinst? 5%, 10%, hur mycket som helst? [OLS]
+
+## Hur ser ni på jämlik vård?
+
+- Hur kan införandet av nya läkemedel ske på ett rättvist och bra sätt? Hur ser vi till att alla får tillgång till nya (ofta dyra) läkemedel?
+
+- Särkilda satsningar för asylsökande och nya medborgare?
+
+## Hur möter vi den ökade efterfrågan på vård?
+
+_RÖLs befolkning växer. De sista 15 årens befolkningstillväxt har lett till en betydande ökning av antalet människor med kroniska sjukdomar då prevalensen i befolkningen  är konstant. Ex typ 1 diabetes, ledgångsreumatism, psoriasis och artros. Detta har bland annat följder för dimensionering av primärvården._ 
+
+- Hur ser ni på det faktum att budget till Sjukvårdens verksamheter inte ökat i relation till befolkningstillväxten?
+
+- Det sker allt fler förlossningar i länet, hur skall detta lösas? [OLS]
+
+## Hur ser ni på digitalisering inom vården?
+
+- Hur får vi bättre fungerande IT-system? [OLS]
+
+- IT-system kostar mycket pengar. Anser ni att Regionörebro ska få välja sitt eget journalsystem eller bör man införa ett journalsystem för hela landet (och att SKL eller staten upphandlar ett system)? [OLS]
+
+- Vem bör ha ansvaret för lagstiftning som rör digital vård? [OLS]
+
+- Skall Örbro Region ha en digital vårdcentral?
+
+## Hur ser ni på prioriteringar mellan olika patientgrupper och områden?
+
+- Finns det några särskilda områden som bör prioriteras?
+
+- Skall alla ha/ erhålla senaste beh.metoder enligt medicinska riktlinjer? Vad skall vi inte syssla med?
+
+- Med riktade bidrag försöker Staten att lösa vårdens problem (kömiljarden, andra pengar som ”tvingar vården att göra vissa saker). Är det rätt med riktade bidrag eller ska regioner och landsting få en summa pengar de själva styr över? [OLS]
+
+- Bör vi prioritera satsningar inom psykiatrin och barnpsykiatri framför den somatiska vården? [OLS]
+
+- RegionÖrebrolän har den högsta dödligheten efter höftfrakturer hos persoer>50 år i Sverige. Vad ska vi göra åt det? [OLS]
+
+- Varför skall det vara onödigt billigt med peruker i RÖL i förhållande till övriga landet? De pengarna kan användas bättre!
+
+_Med anledning av artikeln i Läkartidningen i maj 2018; http://www.lakartidningen.se/Aktuellt/Nyheter/2018/05/Administrativ-personal-har-gatt-om-lakarna/ som handlar om mängden administratörer i vården och vad en rimlig dimensionering av denna överbyggnad borde vara. Redan  2015 var antal personal omräknat till heltidsekvivalenter på vårdavd 53,  fler personal än 2005. Det var endast 53% som arbetade med hälso & sjv.uppdraget, resten sysslade med andra sidouppgifter av administrativ karaktär._ 
+
+- Hur ser ni på hälso och sjukvårdens uppdrag att hushålla med resurser i form av kompetens och pengar i ljuset av detta? Varför växer administrationsvolymen? - I RÖL  mer än riket i övrigt?
+
+## Hur ser ni på de tre sjukhusen i länet?
+
+_Läkarna på kvinnokliniken, läkarna på barnkliniken och specialitetsrådet i barnsjukvård är överens om att förlossningen i Karlskoga bör stängas. Trots detta är alla politiska partier för en förlossning i Karlskoga._ 
+
+- Varför är det så viktigt att Örebro Län har två förlossningsavdelningar när det saknas geografiska skäl? Bör Regionörebrolän ha en eller två förlossningskliniker?
+
+-Varför tre akutsjh? _Lindesberg genomförde 17 akutoperationer nattetid under 2017 men har ett fullt op.lag på plats hela dygnet. Västmanland stängde Sala, Fagersta 1992 och gjorde dessa till bra veckosjh., ortopedi, gynekologi och kirurgi. Där vissa bäddar kunde vara öppna under helg vb. Föreslår samma i RÖL!_
+
+_Jag skulle vilja lyfte de gamlas behov av basal specialistvård som drunknar i allt pratet om högspecialiserad vård. Och som inte kommer lösas med bättre primärvård. Vi kommer behöva vårdavdelningar för att behandla vanliga folksjukdomar. Lindesberg och Karlskoga monteras ned och detta är vårt störste uppdrag. Och som jag tror befolkningen ser på som ett självklart och högst legitimt vårdbehov som ska mötas. Även om professionen och dels sjukvårdens ledningen förmedlar att det inte är så viktigt och har låg status.  Och även om vi givetvis behöver en bättre primärvård och den kommer kunde avlasta akutmottagningen kommer det inneliggande, basala specialistbehovet att finnas kvar._ 
+
+- Hur ser ni på behovet av basal specialistvård och vårdplatser för detta?
+
+- Med tanke på personalbristen och svårigheterna att rekrytera, kan man i längden inom psykiatrin ha geografiskt åtskilda mottagningar helt utan eller med endast enstaka fast anställda läkare (t.ex. i Hallsberg, Lindesberg, Karlskoga)?
+
+## Hur ser ni på olika modeller för styrning av vården?
+
+- Bör universitetssjukhusen (och USÖ) förstatligas? [OLS]
+
+## Hur ser ni på kommunikationen mellan vården, politiker och allmänheten?
+
+_Personalen blir klämd mellan orealistiska uppdrag och befolkningens förväntan och de möjligheter de har att leverera. De som arbetar i vården får agera buffert mellan det utlovade och det möjliga med bla ohälsa och etisk stress som följd. Hälso och sjukvårdspersonal som inte känner igen sig i den beskrivning som ges av den verksamhet de befinner sig i blir uppgivna. Både om den utmålas som katastrofläge som inte existerar eller skönmålas när vi inte klarar_ 
+
+- Hur tycker ni att vi gemensamt skall kommunicera  den verklighet vi befinner oss i till befolkningen?
+
+- Hur närmar sig politiker och profession varandra? I detta fall: hur skapar vi dialog och möten?
+
+## Hur ser ni på utveckling av primärvården?
+
+- Vilka anser ni är de viktigaste åtgärderna för att få en välfungerande primärvård i Region Örebro Län?
+
+- Vad anser ni om listningstak för allmänläkare?
+
+- Bör vi ha andra specialister än allmänläkare i primärvården? Hur skall detta is å fall tillgodoses?
+
+## Hur ser ni på bristande resurser inom psykiatrin?
+
+_Psykiatrin behandlar allt större del av befolkningen och allt fler behandlingar får vetenskapligt stöd och rekommenderas i nationella riktlinjer. Exempelvis får fortfarande en liten andel av dem som kan ha nytta kognitiv beteendeterapi vid depression och ångest och centralstimulantia vid aktivitets och uppmärksamhetsstörning (ADHD)._ 
+
+- Bör psykiatrin få större andel av hälso- och sjukvårdens totala budget i takt med att en större andel av befolkningen nu behandlas?
+ 
+ _Ingen av verksamhetscheferna inom psykiatrin är läkare och representationen av läkare i ledningen för område psykiatri och de olika verksamheterna är mycket liten. Ledningsgrupperna har låg medicinsk och psykiatrisk kompetens. _Hur bedömer ni att bristen på läkare i styrningen av psykiatrin påverkar möjligheterna till väl avvägda prioriteringar, rekrytering av fast anställda läkare och förmågan att utveckla psykiatrin?_ 
+ 
+- Bör representationen av läkare i ledningen av psykiatrin stärkas?
+
+## Barnsjukvård
+
+_Regeringen sköt under våren till ytterligare en förlossningsmiljard (Diarienummer: S2018/01950/FS) där pengarna får nyttjas både inom kvinnosjukvård och neonatalvård. Många landsting har öppet redovisat hur många miljoner det handlar om och hur man gör fördelningen mellan kvinnosjukvård och neonatalvård._ 
+
+- I Region Örebro Län har det varit väldigt svårt att få en uppfattning om hur mycket pengar det är? Hur pengarna skall användas? Och hur de skall fördelas mellan kvinnosjukvård och neonatalvård?
+
+## Bör vi införa screening för tarmcancer i Region Örebro?
+
+_Vi är ett av få länder i EU som inte har nationell coloncancerscreening i någon form, i dagsläget är det endast Stockholms läns landsting som har screening. Socialstyrelsen har rekommenderat detta sedan 2013 och nu har RCC i samverkan förordat införande av nationell tarmcancerscreening från 2019._ 
+
+- Eftersom tjocktarmscancer är andra vanligaste cancerformen både hos män och kvinnor, och screening har visat sig kunna rädda liv (ca 300/år i Sverige) undrar jag således om man är medveten om aktuella rekommendationer? Kommer ni att verka för införande av detta under kommande mandatperiod i RÖL?
+
+<!-- ## Övrigt -->
+
+<!-- 8. Återinvestera av ”vinster” tillbaka till verksamheten,att  användas för arbetsmiljö, kompetensutveckling för att behålla personal, tid för utbildning, handledning, nyrekrytering efter behov, egen ledighet-Jk-uttag, andra kvalitetsuppdrag? Årets svar blev ett reduktionsbeting på ca 2,3%, närmast likt en bestraffning, reprimand för de som dragit in överskottet. Vi är på Kärl-Thx 12 narkosläkare varav 5 är seniora, vi är ungefär lika stora som verksamheten i Linköping, som är 24 st, ca 12 st är seniora = bakjourskompetenta. 365 bakjourspass skall säkras. Hösten 2018 är vi ytterligare tre färre. Kris!! Därav artikel i NA  2018 06 07. [Bengt Hammas] [Budget, fortbildning] -->
+ 
+<!-- 11. Införa ett absolut krav på att vid 58 – 60 års ålder, anställa en ny kollega, helst två. En nyfärdig specialist samt en ST-läkare . En ung läkare idag prioriterar ledighet före frekventa jourer och beredskaper. Att bli senior= bakjoursspecialist efter specialistkompetens tar för narkos & intensivvård inom kärl-thx 3 – 4 år. Grovt krävs för politiker och HR att inse att det är med en framförhållning på 8 – 10 år som krävs!! [Bengt Hammas] [Arbetsmiljö, organisation] -->
+
+<!-- 12. Att arbeta efter 65 år är en stor vinst för arbetsgivaren ( halva sociala avgifter) semestertillägg kommer till. Något ökar skatteavdrag för arbetstagaren. Det vore ngod stimulans att ge tillbaka till den seniora ”som arbetar över” delar av reduktionen?! [Bengt Hammas] -->
+
+<!-- Angående administrativ personal: Vårt förslag är att Hälso och sjukvårdsdirektören får ett uppdrag att se över organisationen och återkomma med ett förslag på en minskning av administrativa tjänster utom medicinska vårdadministratörer om minst 30%. Denna besparing skall sedan omsättas i fler tjänster i hälso och sjukvårdande verksamhet. De hälso och sjukvårdande verksamheterna har redan idag ett uppdrag att arbeta med ständiga förbättringar, implementering av ny kunskap mm och med tillräcklig bemanning kommer de bästa möjligheterna för genomförande av detta att ske. -->
+
+<!-- Varje företag och varje verksamhet behöver lokal ledning ! En ICA-affär utan ledning på plats överlever inte – är det damen i charken eller mannen i kassan som inte fungerar? Detsamma gäller alla företag och offentlig verksamhet. Uppemot 90% av kirurgspecialisterna i Lindesberg slutade under ett år efter den omorganisation som började verka 2015 då kirurgerna i Lindesberg, men härefter också Karlskoga, stod utan lokal beslutsmässig klinikledning och utan lokal beslutsmässig sjukhusledning. Skepp utan kapten ombord går under liksom en satellit utan kontakt med Houston! Men ingen i den politiska ledningen har reagerat på denna nu uppkomna brist på kirurgspecialister! Vad tänker varje parti  konkret  göra för att ändra på nuvarande dåliga situation avseende lokal beslutsmässig ledning i Karlskoga och Lindesberg ?? -->
