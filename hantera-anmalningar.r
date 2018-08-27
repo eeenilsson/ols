@@ -25,7 +25,18 @@ anm_sjvdb <- anm_sjvdb[
 ] 
 
 ### make email list
-add_email <- c("ulrica.thunberg@regionorebrolan.se")
+add_email <- c("ulrica.thunberg@regionorebrolan.se",
+               "anneli.pahlson5@regionorebrolan.se",
+               "bayar.baban@regionorebrolan.se",
+               "g-falck.apoteksgarden@telia.com",
+               "eva.melander@regionorebrolan.se",
+               "anna.winberg@regionorebrolan.se",
+               "lena.wijk@regionorebrolan.se",
+               "ulrica.thunberg@regionorebrolan.se")
+
+## Avbokat: charlotta.wrenninge@regionorebrolan.se, asa ludvigsson
+## 6 extra frallor
+
 #### corrections
 email_list <- c(anm_sjvdb["Email.address"][[1]], add_email)
 email_list <- gsub("ggunnar", "gunnar", email_list)
