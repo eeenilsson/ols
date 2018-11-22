@@ -1,5 +1,5 @@
 ---
-title: "Sjukvårdsdebatt med de politiska partierna 28 augusti"
+title: "Sjukvårdsdebatt med de politiska partierna 28 augusti 2018"
 author: "Erik Nilsson"
 date: 2018-05-08
 categories: ["anslag"]
@@ -74,6 +74,8 @@ Andreas Svahn (S),
 Ola Karlsson (M),
 Jihad Menhem (V),
 Per Söderlund (SD).
+
+![Debattörerna](/media/politikerdebatt.jpg)
 
 # Partierna nationellt om sjukvården
 

@@ -1,5 +1,5 @@
 ---
-title: "Örebro Läkaresällskap: eHälsa 15 feb"
+title: "Örebro Läkaresällskap: eHälsa 15 feb 2018"
 author: "Erik Nilsson"
 date: 2018-02-15
 categories: ["anslag"]

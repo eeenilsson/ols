@@ -1,5 +1,5 @@
 ---
-title: "Örebro Läkaresällskap: Chokladprovning 3 maj"
+title: "Örebro Läkaresällskap: Chokladprovning 3 maj 2018"
 author: "Erik Nilsson"
 date: 2018-05-03
 categories: ["anslag"]

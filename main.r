@@ -44,7 +44,7 @@ setwd(wd)
 
 
 ## render
-render("politikerdebatt-fragor-grupperade.rmd", "word_document", encoding="UTF-8")
+## render("politikerdebatt-fragor-grupperade.rmd", "word_document", encoding="UTF-8")
 
 ## 177 anmälda
 ## Laktos 3
