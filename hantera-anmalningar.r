@@ -1,8 +1,22 @@
 ## Hantera anmälningar via google
-pacman::p_load(tidyverse, rmarkdown, knitr, tidyr, googledrive, xlsx)
-require(xlsx)
-wd <- getwd()
+pacman::p_load(tidyverse, rmarkdown, knitr, tidyr, googledrive)
+library(readxl)
+
+## xlsx not working weel dye to java right now
+
+##require(xlsx)
+
+wda <- getwd()
 wd_dropbox <- "/home/eee/Dropbox/Örebro läkaresällskap/"
+
+## antal medlemmar i nuvarande epostlista
+## setwd(wd_dropbox)
+## list.files()
+## temp <- readLines("epostlista2018.txt")
+## length(temp)
+## temp <- sapply(temp, function(x) strsplit(x, "@")[[1]][1])
+## names(temp) <- NULL
+## length(unique(tolower(temp)))
 
 ## Also an alternative method is to export LD_LIBRARY_PATH with the value of Java library path obtained from the command R CMD javareconf -e
 ## .libPaths()
@@ -12,22 +26,24 @@ wd_dropbox <- "/home/eee/Dropbox/Örebro läkaresällskap/"
 
 ## get from google drive
 drive_find(n_max = 50)
-s <- drive_find(pattern = "anm", n_max = 50)
-s$name[1]
-drive_download(s$name[1], type = "csv")
+## s <- drive_find(pattern = "anm", n_max = 50)
+## s$name[1]
+## drive_download(s$name[1], type = "csv")
 ## Note: Swedish cahracters not working (?)
 ## s <- drive_find(pattern = "anm", n_max = 50)
 ## s$name[1]
 ## drive_download(s$name[1], type = "csv")
 
+drive_download("anm_arsmote", type = "csv")
+
 ## read downloaded csv
-anmalan <- read_csv("anm_dodshjalpsdebatt.csv")
+anmalan <- read_csv("anm_arsmote.csv")
 names(anmalan) <- make.names(names(anmalan))
 ## remove duplicates (removes all except last)
 anmalan%>%
-    arrange(Email.address) -> anmalan
+    arrange(Email.Address) -> anmalan
 anmalan <- anmalan[
-    !duplicated(anmalan["Email.address"]),
+    !duplicated(anmalan["Email.Address"]),
 ] 
 
 ### make email list
@@ -45,15 +61,17 @@ avbokat <- c()
 
 ## lista unika epostadresser minus avbokade
 anm <- c(
-    unique(anmalan["Email.address"][[1]]),
+    unique(anmalan["Email.Address"][[1]]),
   add_email) ## unika anmälda (en del kan ha avbokat)
 anm <- anm[!(anm %in% avbokat)] ## minus avbokade
 anm <- unique(anm) ## remove duplicated
 
 ## email list fralla = JA
+names(anmalan)
+
 anmalan%>%
-    filter(Önskar.du.fralla...dryck.före.debatten. == "JA tack") -> temp
-fralla <-  c(temp$Email.address, add_email)
+    filter(Önskar.du.fralla...dryck.. == "JA tack") -> temp
+fralla <-  c(temp$Email.Address, add_email)
 fralla <- fralla[fralla %in% anm] ## minus avbokade
 fralla <- fralla[!duplicated(fralla)]
 fralla <- fralla[!(fralla %in% ej_fika)] ## minu ej fika
@@ -68,13 +86,13 @@ length(fralla) + length(utan_fralla) ==
 setwd(wd_dropbox)
 write_lines(
     paste(anm, ",", sep = "")
-  , path = paste(wd_dropbox, "anm_dodshjalpsdebatt_epostlista.txt", sep=""))
+  , path = paste(wd_dropbox, "anm_arsmote_epostlista.txt", sep=""))
 write_lines(
     paste(fralla, ",", sep = "")
-  , path = paste(wd_dropbox, "anm_dodshjalpsdebatt_fralla.txt", sep=""))
+  , path = paste(wd_dropbox, "anm_arsmote_fralla.txt", sep=""))
 write_lines(
     paste(utan_fralla, ",", sep = "")
-  , path = paste(wd_dropbox, "anm_dodshjalpsdebatt_utan_fralla.txt", sep=""))
+  , path = paste(wd_dropbox, "anm_arsmote_utan_fralla.txt", sep=""))
 
 ## print anmalda
 anm
@@ -86,42 +104,43 @@ anmalan[["Kostrestriktioner..standardfrallan.är.vegetarisk."]][!is.na(anmalan[[
 
 names(anmalan)
 
-## 159 unika anmälningar, varav 153 önskar fralla.
-## Glutenfritt 3 st
-## Gluten- och laktosfritt 1 st
-## Laktosfritt 2 st
-## Vegan 2 st
-
 ## uppdatera medlemsregister
 setwd(wd_dropbox)
 ## medlemmar <- read.xlsx("ols_medlemsregister.xlsx",
 ##           sheetIndex = 2)
 
+medlemmar <- read_excel('medlemsregister2018.xlsx')
+
 ## medlemmar_old <- cbind(
-##     as.character(medlemmar$Namn[!is.na(medlemmar$Epost)]),
-##     as.character(medlemmar$Epost[!is.na(medlemmar$Epost)])
+##     as.character(medlemmar$Namn[!is.na(medlemmar$Email.address)]),
+##     as.character(medlemmar$Email.address[!is.na(medlemmar$Email.address)])
 ## )
+## str(anmalan)
+## str(medlemmar)
+## medlemmar <- read.xlsx("ols_medlemsregister2018.xlsx",
+##            sheetIndex = 1)
 
-str(anmalan)
-str(medlemmar)
-
-medlemmar <- read.xlsx("ols_medlemsregister2018.xlsx",
-           sheetIndex = 1)
-
-medlemmar_new <- anmalan[c("Namn", "Email.address")]
-medlemmar_old <- data.frame(medlemmar_old)
+medlemmar_new <- anmalan[c("Namn", "Email.Address")]
+medlemmar_old <- medlemmar
+    ##data.frame(medlemmar_old)
 names(medlemmar_old) <- names(medlemmar_new)
 
 medlemmar <- rbind(medlemmar_new,
       medlemmar_old
       )
-medlemmar <- medlemmar[!duplicated(medlemmar$Email.address),] ## remove duplicated, keeping the latest email address
+medlemmar <- medlemmar[!duplicated(medlemmar$Email.Address),] ## remove duplicated, keeping the latest email Address
 
 medlemmar%>%
     arrange(Namn) -> medlemmar
 
+medlemmar <- medlemmar[!duplicated(tolower(medlemmar$Email.Address)),] ## remove duplicated emails
+
+
+write_lines(
+    paste(medlemmar$Namn, ";", medlemmar$Email.Address, ";")
+  , path = paste(wd_dropbox, "medlemsregister-", Sys.Date(), ".txt", sep=""))
+
 ### write new reg
-write.xlsx(medlemmar, "medlemsregister2018.xlsx")
 
 ### write new wmail list
 ## sink("ols_epostlista2018.txt")
@@ -129,8 +148,8 @@ write.xlsx(medlemmar, "medlemsregister2018.xlsx")
 ##           collapse = ", ")
 ## sink()
 
-write_lines(
-    paste(medlemmar$Email.address, ",", sep = "")
-  , path = paste(wd_dropbox, "epostlista2018.txt", sep=""))
+## remove duplicated from register
+medlemmar_unique <- medlemmar[!duplicated(tolower(medlemmar$Namn)),]
+medlemmar_unique <- medlemmar_unique[!duplicated(tolower(medlemmar_unique$Email.Address)),]
 
-list.files()
+nrow(medlemmar_unique)
