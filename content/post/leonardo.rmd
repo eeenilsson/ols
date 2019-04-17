@@ -3,7 +3,7 @@ title: Leonardo da Vinci – ett universalgeni 2 maj 2019
 author: "Erik Nilsson"
 date: 2019-04-09
 categories: ["anslag"]
-tags: ["evenemang"]
+tags: ["evenemang", "kultur"]
 
 ---
 
