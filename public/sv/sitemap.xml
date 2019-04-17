@@ -38,6 +38,16 @@
   </url>
   
   <url>
+    <loc>/post/motzi/</loc>
+    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/brasjukhus/</loc>
+    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/leonardo/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -223,7 +233,7 @@
   
   <url>
     <loc>/tags/evenemang/</loc>
-    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -287,7 +297,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
