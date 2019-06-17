@@ -7,7 +7,7 @@ library(readxl)
 ##require(xlsx)
 
 wda <- getwd()
-wd_dropbox <- "/home/eee/Dropbox/Örebro läkaresällskap/"
+wd_dropbox <- "/home/e/Dropbox/Örebro läkaresällskap/"
 
 ## antal medlemmar i nuvarande epostlista
 ## setwd(wd_dropbox)
@@ -34,10 +34,15 @@ drive_find(n_max = 50)
 ## s$name[1]
 ## drive_download(s$name[1], type = "csv")
 
-drive_download("anm_arsmote", type = "csv")
+nm <- "anm_leonardo2019" ## enter name
+
+drive_download("anm_leonardo2019", type = "csv", overwrite = TRUE)
+
+anmalan[[1]][1]
 
 ## read downloaded csv
-anmalan <- read_csv("anm_arsmote.csv")
+anmalan <- "anm_leonardo2019.csv"
+    ##paste0(nm, ".csv")
 names(anmalan) <- make.names(names(anmalan))
 ## remove duplicates (removes all except last)
 anmalan%>%

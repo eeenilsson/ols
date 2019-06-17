@@ -1,15 +1,17 @@
 ## packages
 pacman::p_load(tidyverse, rmarkdown, knitr, tidyr, googledrive)
 
+pacman::p_load(blogdown)
+
 ## blogdown
 
 ## Packages
 ## options(repos=structure(c(CRAN="http://ftp.acc.umu.se/mirror/CRAN/"))) ## set dafault repo
 ## install.packages("blogdown")
-## blogdown::install_hugo()
-## blogdown::update_hugo()
-## install.packages('later')
-## install.packages('plotrix')
+blogdown::install_hugo()
+blogdown::update_hugo()
+install.packages('later')
+install.packages('plotrix')
 
 ## Step 1: Make an empty repo on github
 
@@ -17,7 +19,7 @@ wd <- getwd()
 
 ## Step 2: Clone empty repo to pc
 ##setwd("/home/eee/e/blog") # Start R in the new empty folder
-setwd("/home/eee/e/ols")
+setwd("/home/e/ols")
 
 ## Step 3: Create site
 ## blogdown::new_site(theme = "MunifTanjim/minimo") ## Minimo
