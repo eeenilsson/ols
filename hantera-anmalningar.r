@@ -36,15 +36,13 @@ drive_find(n_max = 50)
 
 nm <- "anm_leonardo2019" ## enter name
 
-drive_download("anm_leonardo2019", type = "csv", overwrite = TRUE)
-
-anmalan[[1]][1]
+drive_download(nm, type = "csv")
 
 ## read downloaded csv
-anmalan <- "anm_leonardo2019.csv"
-    ##paste0(nm, ".csv")
+anmalan <- read_csv("anm_leonardo2019.csv")
 names(anmalan) <- make.names(names(anmalan))
 ## remove duplicates (removes all except last)
+
 anmalan%>%
     arrange(Email.Address) -> anmalan
 anmalan <- anmalan[
@@ -75,7 +73,7 @@ anm <- unique(anm) ## remove duplicated
 names(anmalan)
 
 anmalan%>%
-    filter(Önskar.du.fralla...dryck.. == "JA tack") -> temp
+    filter(Önskar.du.tilltugg...dryck.. == "JA tack") -> temp
 fralla <-  c(temp$Email.Address, add_email)
 fralla <- fralla[fralla %in% anm] ## minus avbokade
 fralla <- fralla[!duplicated(fralla)]
@@ -91,13 +89,13 @@ length(fralla) + length(utan_fralla) ==
 setwd(wd_dropbox)
 write_lines(
     paste(anm, ",", sep = "")
-  , path = paste(wd_dropbox, "anm_arsmote_epostlista.txt", sep=""))
+  , path = paste(wd_dropbox, nm, ".txt", sep=""))
 write_lines(
     paste(fralla, ",", sep = "")
-  , path = paste(wd_dropbox, "anm_arsmote_fralla.txt", sep=""))
+  , path = paste(wd_dropbox, "anm_fralla.txt", sep=""))
 write_lines(
     paste(utan_fralla, ",", sep = "")
-  , path = paste(wd_dropbox, "anm_arsmote_utan_fralla.txt", sep=""))
+  , path = paste(wd_dropbox, nm, ".txt", sep=""))
 
 ## print anmalda
 anm
@@ -105,16 +103,20 @@ length(anm) ## antal anmälda
 length(fralla)
 length(add_email)
 length(avbokat)
-anmalan[["Kostrestriktioner..standardfrallan.är.vegetarisk."]][!is.na(anmalan[["Kostrestriktioner..standardfrallan.är.vegetarisk."]])]
-
-names(anmalan)
+anmalan[["Kostrestriktioner"]][!is.na(anmalan[["Kostrestriktioner"]])]
 
 ## uppdatera medlemsregister
 setwd(wd_dropbox)
 ## medlemmar <- read.xlsx("ols_medlemsregister.xlsx",
 ##           sheetIndex = 2)
 
-medlemmar <- read_excel('medlemsregister2018.xlsx')
+## medlemmar <- read_excel('medlemsregister2019.xlsx')
+medlemmar <- read_delim('medlemsregister2019.txt',
+                        delim = ";",
+                        col_names = FALSE)[, 1:2]
+
+medlemmar[[1]] <- trimws(medlemmar[[1]])
+medlemmar[[2]] <- trimws(medlemmar[[2]])
 
 ## medlemmar_old <- cbind(
 ##     as.character(medlemmar$Namn[!is.na(medlemmar$Email.address)]),
@@ -140,10 +142,37 @@ medlemmar%>%
 
 medlemmar <- medlemmar[!duplicated(tolower(medlemmar$Email.Address)),] ## remove duplicated emails
 
+## remove duplicated from register
+medlemmar_unique <- medlemmar[!duplicated(tolower(medlemmar$Namn)),]
+medlemmar_unique <- medlemmar_unique[!duplicated(tolower(medlemmar_unique$Email.Address)),]
 
+medlemmar <- medlemmar_unique
+
+## write
 write_lines(
     paste(medlemmar$Namn, ";", medlemmar$Email.Address, ";")
   , path = paste(wd_dropbox, "medlemsregister-", Sys.Date(), ".txt", sep=""))
+
+write_lines( ## update
+    paste(medlemmar$Namn, ";", medlemmar$Email.Address, ";")
+  , path = paste(wd_dropbox, "medlemsregister", format(Sys.Date(), "%Y"), ".txt", sep=""))
+
+write_lines( ## update
+    paste(medlemmar$Namn, ";", medlemmar$Email.Address, ";")
+  , path = paste(wd_dropbox, "medlemsregister", format(Sys.Date(), "%Y"), ".csv", sep=""))
+
+write_lines( ## archive
+    paste(medlemmar_old$Namn, ";", medlemmar_old$Email.Address, ";")
+  , path = paste(paste0(wd_dropbox, "arkiv/"), "medlemsregister-backup-", Sys.Date(), ".txt", sep=""))
+
+write_lines( ## update
+    paste(medlemmar$Namn, ";", medlemmar$Email.Address, ";")
+  , path = paste("medlemsregister", format(Sys.Date(), "%Y"), ".csv", sep=""))
+
+write_lines(
+    paste(medlemmar$Email.Address, ";")
+  , path = paste(wd_dropbox, "medlemmar-epost-", Sys.Date(), ".txt", sep=""))
+
 
 ### write new reg
 
@@ -153,8 +182,8 @@ write_lines(
 ##           collapse = ", ")
 ## sink()
 
-## remove duplicated from register
-medlemmar_unique <- medlemmar[!duplicated(tolower(medlemmar$Namn)),]
-medlemmar_unique <- medlemmar_unique[!duplicated(tolower(medlemmar_unique$Email.Address)),]
+nrow(medlemmar_old)
+nrow(medlemmar_new)
+nrow(medlemmar_unique) ## 269
+nrow(medlemmar)
 
-nrow(medlemmar_unique)
