@@ -8,10 +8,10 @@ pacman::p_load(blogdown)
 ## Packages
 ## options(repos=structure(c(CRAN="http://ftp.acc.umu.se/mirror/CRAN/"))) ## set dafault repo
 ## install.packages("blogdown")
-blogdown::install_hugo()
-blogdown::update_hugo()
-install.packages('later')
-install.packages('plotrix')
+## blogdown::install_hugo()
+## blogdown::update_hugo()
+## install.packages('later')
+## install.packages('plotrix')
 
 ## Step 1: Make an empty repo on github
 
