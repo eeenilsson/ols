@@ -34,12 +34,12 @@ drive_find(n_max = 50)
 ## s$name[1]
 ## drive_download(s$name[1], type = "csv")
 
-nm <- "anm_leonardo2019" ## enter name
+nm <- "2019_vad_ar_en_lakare" ## enter name
 
 drive_download(nm, type = "csv")
 
 ## read downloaded csv
-anmalan <- read_csv("anm_leonardo2019.csv")
+anmalan <- read_csv("2019_vad_ar_en_lakare.csv")
 names(anmalan) <- make.names(names(anmalan))
 ## remove duplicates (removes all except last)
 
@@ -57,6 +57,7 @@ ej_fika <- c()
 
 ## Avbokat:
 avbokat <- c()
+
 
 #### corrections
 ## anmalan["Email.address"][[1]] <- gsub("ggunnar", "gunnar", anmalan["Email.address"][[1]])
@@ -103,8 +104,8 @@ length(anm) ## antal anmälda
 length(fralla)
 length(add_email)
 length(avbokat)
-anmalan[["Kostrestriktioner"]][!is.na(anmalan[["Kostrestriktioner"]])]
-
+summary(factor(anmalan[["Kostrestriktioner"]][!is.na(anmalan[["Kostrestriktioner"]])])
+)
 ## uppdatera medlemsregister
 setwd(wd_dropbox)
 ## medlemmar <- read.xlsx("ols_medlemsregister.xlsx",
