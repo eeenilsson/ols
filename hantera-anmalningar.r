@@ -25,8 +25,8 @@ wd_dropbox <- "/home/e/Dropbox/Örebro läkaresällskap/"
 
 
 ## get from google drive
-drive_find(n_max = 50)
-## s <- drive_find(pattern = "anm", n_max = 50)
+## drive_find(n_max = 50)
+## s <- drive_find(pattern = "Bli medlem", n_max = 50)
 ## s$name[1]
 ## drive_download(s$name[1], type = "csv")
 ## Note: Swedish cahracters not working (?)
@@ -42,6 +42,16 @@ drive_download(nm, type = "csv")
 anmalan <- read_csv("2019_vad_ar_en_lakare.csv")
 names(anmalan) <- make.names(names(anmalan))
 ## remove duplicates (removes all except last)
+
+nm <- "ny_medlem" ## enter name
+
+drive_download(nm, type = "csv")
+
+## read downloaded csv
+anmalan <- read_csv("ny_medlem.csv")
+names(anmalan) <- make.names(names(anmalan))
+## remove duplicates (removes all except last)
+
 
 anmalan%>%
     arrange(Email.Address) -> anmalan
