@@ -4,6 +4,8 @@ pacman::p_load(tidyverse, rmarkdown, knitr, tidyr, googledrive)
 
 pacman::p_load(blogdown)
 
+setwd('../ols/')
+
 ## blogdown
 
 ## Packages
