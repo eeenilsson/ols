@@ -7,7 +7,7 @@ tags: ["evenemang"]
 
 ---
 
-Örebro Läkaresällskap bjuder in till ostprovning och föreläsning av Matz Larsson: "Dansa med hajar - ett evolutionsbiologisk drama".
+Örebro Läkaresällskap bjuder in till ostprovning och föreläsning av Matz Larsson: "Dansa med hajar - ett evolutionsbiologiskt drama".
 
 _Välkommen!_
 
@@ -28,7 +28,7 @@ Varmt välkomna!
 
  <!-- ÖLS styrelse: Rebecca, Kristian, Åsa, Lovisa, Erik och Jonas -->
 
-![Affish](/media/ost.png)
+![Bild: Lovisa Paulsson](/media/ost.png)
 
 # Matz Larsson
 
